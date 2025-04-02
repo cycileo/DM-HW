@@ -1,0 +1,1772 @@
+CODE;Label - English;Label - French;Label - German
+BE;Belgium;Belgique;Belgien
+BE001C;Bruxelles/Brussel (greater city);Bruxelles/Brussel (greater city);Bruxelles/Brussel (greater city)
+BE001F;Bruxelles/Brussel/Leuven;Bruxelles/Brussel/Leuven;Bruxelles/Brussel/Leuven
+BE002C;Antwerpen (greater city);Antwerpen (greater city);Antwerpen (greater city)
+BE002F;Antwerpen;Antwerpen;Antwerpen
+BE003C;Gent;Gent;Gent
+BE003F;Gent;Gent;Gent
+BE004C;Charleroi (greater city);Charleroi (greater city);Charleroi (greater city)
+BE004F;Charleroi;Charleroi;Charleroi
+BE005C;Liège (greater city);Liège (greater city);Liège (greater city)
+BE005F;Liège;Liège;Liège
+BE006C;Brugge;Brugge;Brugge
+BE006F;Brugge;Brugge;Brugge
+BE007C;Namur;Namur;Namur
+BE007F;Namur;Namur;Namur
+BE008C;Leuven;Leuven;Leuven
+BE009C;Mons (greater city);Mons (greater city);Mons (greater city)
+BE009F;Mons;Mons;Mons
+BE010C;Kortrijk (greater city);Kortrijk (greater city);Kortrijk (greater city)
+BE010F;Kortrijk;Kortrijk;Kortrijk
+BE011C;Oostende (greater city);Oostende (greater city);Oostende (greater city)
+BE011F;Oostende;Oostende;Oostende
+BE012C;Mechelen;Mechelen;Mechelen
+BE012F;Mechelen;Mechelen;Mechelen
+BE013C;Mouscron;Mouscron;Mouscron
+BE013F;Mouscron;Mouscron;Mouscron
+BE014C;La Louvière (greater city);La Louvière (greater city);La Louvière (greater city)
+BE014F;La Louvière;La Louvière;La Louvière
+BE015C;Verviers (greater city);Verviers (greater city);Verviers (greater city)
+BE015F;Verviers;Verviers;Verviers
+BG;Bulgaria;Bulgarie;Bulgarien
+BG001C;Sofia;Sofia;Sofia
+BG001F;Sofia;Sofia;Sofia
+BG002C;Plovdiv;Plovdiv;Plovdiv
+BG002F;Plovdiv;Plovdiv;Plovdiv
+BG003C;Varna;Varna;Varna
+BG003F;Varna;Varna;Varna
+BG004C;Burgas;Burgas;Burgas
+BG004F;Burgas;Burgas;Burgas
+BG005C;Pleven;Pleven;Pleven
+BG005F;Pleven;Pleven;Pleven
+BG006C;Ruse;Ruse;Ruse
+BG006F;Ruse;Ruse;Ruse
+BG007C;Vidin;Vidin;Vidin
+BG007F;Vidin;Vidin;Vidin
+BG008C;Stara Zagora;Stara Zagora;Stara Zagora
+BG008F;Stara Zagora;Stara Zagora;Stara Zagora
+BG009C;Sliven;Sliven;Sliven
+BG009F;Sliven;Sliven;Sliven
+BG010C;Dobrich;Dobrich;Dobrich
+BG010F;Dobrich;Dobrich;Dobrich
+BG011C;Shumen;Shumen;Shumen
+BG011F;Shumen;Shumen;Shumen
+BG012C;Pernik;Pernik;Pernik
+BG013C;Yambol;Yambol;Yambol
+BG013F;Yambol;Yambol;Yambol
+BG014C;Haskovo;Haskovo;Haskovo
+BG014F;Haskovo;Haskovo;Haskovo
+BG015C;Pazardzhik;Pazardzhik;Pazardzhik
+BG015F;Pazardzhik;Pazardzhik;Pazardzhik
+BG016C;Blagoevgrad;Blagoevgrad;Blagoevgrad
+BG016F;Blagoevgrad;Blagoevgrad;Blagoevgrad
+BG017C;Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo
+BG017F;Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo
+BG018C;Vratsa;Vratsa;Vratsa
+BG018F;Vratsa;Vratsa;Vratsa
+CZ;Czechia;Tchéquie;Tschechien
+CZ001C;Praha;Praha;Praha
+CZ001F;Praha;Praha;Praha
+CZ002C;Brno;Brno;Brno
+CZ002F;Brno;Brno;Brno
+CZ003C;Ostrava;Ostrava;Ostrava
+CZ003F;Ostrava;Ostrava;Ostrava
+CZ004C;Plzeň;Plzeň;Plzeň
+CZ004F;Plzen;Plzen;Plzen
+CZ005C;Ústí nad Labem;Ústí nad Labem;Ústí nad Labem
+CZ005F;Ústí nad Labem;Ústí nad Labem;Ústí nad Labem
+CZ006C;Olomouc;Olomouc;Olomouc
+CZ006F;Olomouc;Olomouc;Olomouc
+CZ007C;Liberec (greater city);Liberec (greater city);Liberec (greater city)
+CZ007F;Liberec;Liberec;Liberec
+CZ008C;České Budějovice;České Budějovice;České Budějovice
+CZ008F;Ceské Budejovice;Ceské Budejovice;Ceské Budejovice
+CZ009C;Hradec Králové;Hradec Králové;Hradec Králové
+CZ009F;Hradec Králové;Hradec Králové;Hradec Králové
+CZ010C;Pardubice;Pardubice;Pardubice
+CZ010F;Pardubice;Pardubice;Pardubice
+CZ011C;Zlín;Zlín;Zlín
+CZ011F;Zlín;Zlín;Zlín
+CZ012C;Kladno;Kladno;Kladno
+CZ013C;Karlovy Vary;Karlovy Vary;Karlovy Vary
+CZ013F;Karlovy Vary;Karlovy Vary;Karlovy Vary
+CZ014C;Jihlava;Jihlava;Jihlava
+CZ014F;Jihlava;Jihlava;Jihlava
+CZ015C;Havířov;Havířov;Havířov
+CZ016C;Most;Most;Most
+CZ016F;Most;Most;Most
+CZ017C;Karviná;Karviná;Karviná
+CZ018C;Chomutov-Jirkov (greater city);Chomutov-Jirkov (greater city);Chomutov-Jirkov (greater city)
+CZ018F;Chomutov;Chomutov;Chomutov
+DK;Denmark;Danemark;Dänemark
+DK001C;København (greater city);København (greater city);København (greater city)
+DK001C1;København;København;København
+DK001F;København;København;København
+DK002C;Århus;Århus;Århus
+DK002F;Århus;Århus;Århus
+DK003C;Odense;Odense;Odense
+DK003F;Odense;Odense;Odense
+DK004C;Aalborg;Aalborg;Aalborg
+DK004F;Aalborg;Aalborg;Aalborg
+DE;Germany;Allemagne;Deutschland
+DE001C;Berlin;Berlin;Berlin
+DE001F;Berlin;Berlin;Berlin
+DE002C;Hamburg;Hamburg;Hamburg
+DE002F;Hamburg;Hamburg;Hamburg
+DE003C;München;München;München
+DE003F;München;München;München
+DE004C;Köln;Köln;Köln
+DE004F;Köln;Köln;Köln
+DE005C;Frankfurt am Main;Frankfurt am Main;Frankfurt am Main
+DE005F;Frankfurt am Main;Frankfurt am Main;Frankfurt am Main
+DE006C;Essen;Essen;Essen
+DE006F;Ruhrgebiet;Ruhrgebiet;Ruhrgebiet
+DE007C;Stuttgart;Stuttgart;Stuttgart
+DE007F;Stuttgart;Stuttgart;Stuttgart
+DE008C;Leipzig;Leipzig;Leipzig
+DE008F;Leipzig;Leipzig;Leipzig
+DE009C;Dresden;Dresden;Dresden
+DE009F;Dresden;Dresden;Dresden
+DE010C;Dortmund;Dortmund;Dortmund
+DE011C;Düsseldorf;Düsseldorf;Düsseldorf
+DE011F;Düsseldorf;Düsseldorf;Düsseldorf
+DE012C;Bremen;Bremen;Bremen
+DE012F;Bremen;Bremen;Bremen
+DE013C;Hannover;Hannover;Hannover
+DE013F;Hannover;Hannover;Hannover
+DE014C;Nürnberg;Nürnberg;Nürnberg
+DE014F;Nürnberg;Nürnberg;Nürnberg
+DE015C;Bochum;Bochum;Bochum
+DE016C;Bielefeld;Bielefeld;Bielefeld
+DE016F;Bielefeld;Bielefeld;Bielefeld
+DE017C;Halle an der Saale;Halle an der Saale;Halle an der Saale
+DE017F;Halle an der Saale;Halle an der Saale;Halle an der Saale
+DE018C;Magdeburg;Magdeburg;Magdeburg
+DE018F;Magdeburg;Magdeburg;Magdeburg
+DE019C;Wiesbaden;Wiesbaden;Wiesbaden
+DE019F;Wiesbaden;Wiesbaden;Wiesbaden
+DE020C;Göttingen;Göttingen;Göttingen
+DE020F;Göttingen;Göttingen;Göttingen
+DE021C;Mülheim a.d.Ruhr;Mülheim a.d.Ruhr;Mülheim a.d.Ruhr
+DE022C;Moers;Moers;Moers
+DE023C;Darmstadt;Darmstadt;Darmstadt
+DE023F;Darmstadt;Darmstadt;Darmstadt
+DE024C;Trier;Trier;Trier
+DE024F;Trier;Trier;Trier
+DE025C;Freiburg im Breisgau;Freiburg im Breisgau;Freiburg im Breisgau
+DE025F;Freiburg im Breisgau;Freiburg im Breisgau;Freiburg im Breisgau
+DE026C;Regensburg;Regensburg;Regensburg
+DE026F;Regensburg;Regensburg;Regensburg
+DE027C;Frankfurt (Oder);Frankfurt (Oder);Frankfurt (Oder)
+DE027F;Frankfurt (Oder);Frankfurt (Oder);Frankfurt (Oder)
+DE028C;Weimar;Weimar;Weimar
+DE028F;Weimar;Weimar;Weimar
+DE029C;Schwerin;Schwerin;Schwerin
+DE029F;Schwerin;Schwerin;Schwerin
+DE030C;Erfurt;Erfurt;Erfurt
+DE030F;Erfurt;Erfurt;Erfurt
+DE031C;Augsburg;Augsburg;Augsburg
+DE031F;Augsburg;Augsburg;Augsburg
+DE032C;Bonn;Bonn;Bonn
+DE032F;Bonn;Bonn;Bonn
+DE033C;Karlsruhe;Karlsruhe;Karlsruhe
+DE033F;Karlsruhe;Karlsruhe;Karlsruhe
+DE034C;Mönchengladbach;Mönchengladbach;Mönchengladbach
+DE034F;Mönchengladbach;Mönchengladbach;Mönchengladbach
+DE035C;Mainz;Mainz;Mainz
+DE035F;Mainz;Mainz;Mainz
+DE036C;Kiel;Kiel;Kiel
+DE036F;Kiel;Kiel;Kiel
+DE037C;Saarbrücken;Saarbrücken;Saarbrücken
+DE037F;Saarbrücken;Saarbrücken;Saarbrücken
+DE038C;Potsdam;Potsdam;Potsdam
+DE039C;Koblenz;Koblenz;Koblenz
+DE039F;Koblenz;Koblenz;Koblenz
+DE040C;Rostock;Rostock;Rostock
+DE040F;Rostock;Rostock;Rostock
+DE041C;Kaiserslautern;Kaiserslautern;Kaiserslautern
+DE041F;Kaiserslautern;Kaiserslautern;Kaiserslautern
+DE042C;Iserlohn;Iserlohn;Iserlohn
+DE042F;Iserlohn;Iserlohn;Iserlohn
+DE043C;Esslingen am Neckar;Esslingen am Neckar;Esslingen am Neckar
+DE044C;Hanau;Hanau;Hanau
+DE045C;Wilhelmshaven;Wilhelmshaven;Wilhelmshaven
+DE045F;Wilhelmshaven;Wilhelmshaven;Wilhelmshaven
+DE046C;Ludwigsburg;Ludwigsburg;Ludwigsburg
+DE047C;Tübingen;Tübingen;Tübingen
+DE047F;Tübingen;Tübingen;Tübingen
+DE048C;Villingen-Schwenningen;Villingen-Schwenningen;Villingen-Schwenningen
+DE048F;Villingen-Schwenningen;Villingen-Schwenningen;Villingen-Schwenningen
+DE049C;Flensburg;Flensburg;Flensburg
+DE049F;Flensburg;Flensburg;Flensburg
+DE050C;Marburg;Marburg;Marburg
+DE050F;Marburg;Marburg;Marburg
+DE051C;Konstanz;Konstanz;Konstanz
+DE051F;Konstanz;Konstanz;Konstanz
+DE052C;Neumünster;Neumünster;Neumünster
+DE052F;Neumünster;Neumünster;Neumünster
+DE053C;Brandenburg an der Havel;Brandenburg an der Havel;Brandenburg an der Havel
+DE053F;Brandenburg an der Havel;Brandenburg an der Havel;Brandenburg an der Havel
+DE054C;Gießen;Gießen;Gießen
+DE054F;Gießen;Gießen;Gießen
+DE055C;Lüneburg;Lüneburg;Lüneburg
+DE056C;Bayreuth;Bayreuth;Bayreuth
+DE056F;Bayreuth;Bayreuth;Bayreuth
+DE057C;Celle;Celle;Celle
+DE057F;Celle;Celle;Celle
+DE058C;Aschaffenburg;Aschaffenburg;Aschaffenburg
+DE058F;Aschaffenburg;Aschaffenburg;Aschaffenburg
+DE059C;Bamberg;Bamberg;Bamberg
+DE059F;Bamberg;Bamberg;Bamberg
+DE060C;Plauen;Plauen;Plauen
+DE060F;Plauen;Plauen;Plauen
+DE061C;Neubrandenburg;Neubrandenburg;Neubrandenburg
+DE061F;Neubrandenburg;Neubrandenburg;Neubrandenburg
+DE062C;Fulda;Fulda;Fulda
+DE062F;Fulda;Fulda;Fulda
+DE063C;Kempten (Allgäu);Kempten (Allgäu);Kempten (Allgäu)
+DE063F;Kempten (Allgäu);Kempten (Allgäu);Kempten (Allgäu)
+DE064C;Landshut;Landshut;Landshut
+DE064F;Landshut;Landshut;Landshut
+DE065C;Sindelfingen;Sindelfingen;Sindelfingen
+DE066C;Rosenheim;Rosenheim;Rosenheim
+DE066F;Rosenheim;Rosenheim;Rosenheim
+DE067C;Frankenthal (Pfalz);Frankenthal (Pfalz);Frankenthal (Pfalz)
+DE068C;Stralsund;Stralsund;Stralsund
+DE068F;Stralsund;Stralsund;Stralsund
+DE069C;Friedrichshafen;Friedrichshafen;Friedrichshafen
+DE069F;Friedrichshafen;Friedrichshafen;Friedrichshafen
+DE070C;Offenburg;Offenburg;Offenburg
+DE070F;Offenburg;Offenburg;Offenburg
+DE071C;Görlitz;Görlitz;Görlitz
+DE071F;Görlitz;Görlitz;Görlitz
+DE072C;Sankt Augustin;Sankt Augustin;Sankt Augustin
+DE073C;Neu-Ulm;Neu-Ulm;Neu-Ulm
+DE074C;Schweinfurt;Schweinfurt;Schweinfurt
+DE074F;Schweinfurt;Schweinfurt;Schweinfurt
+DE075C;Greifswald;Greifswald;Greifswald
+DE075F;Greifswald;Greifswald;Greifswald
+DE076C;Wetzlar;Wetzlar;Wetzlar
+DE076F;Wetzlar;Wetzlar;Wetzlar
+DE077C;Speyer;Speyer;Speyer
+DE077F;Speyer;Speyer;Speyer
+DE078C;Passau;Passau;Passau
+DE078F;Passau;Passau;Passau
+DE079C;Dessau-Roßlau;Dessau-Roßlau;Dessau-Roßlau
+DE079F;Dessau-Roßlau;Dessau-Roßlau;Dessau-Roßlau
+DE080C;Duisburg;Duisburg;Duisburg
+DE081C;Mannheim;Mannheim;Mannheim
+DE081F;Mannheim-Ludwigshafen;Mannheim-Ludwigshafen;Mannheim-Ludwigshafen
+DE082C;Gelsenkirchen;Gelsenkirchen;Gelsenkirchen
+DE083C;Münster;Münster;Münster
+DE083F;Münster;Münster;Münster
+DE084C;Chemnitz;Chemnitz;Chemnitz
+DE084F;Chemnitz;Chemnitz;Chemnitz
+DE085C;Braunschweig;Braunschweig;Braunschweig
+DE085F;Braunschweig-Salzgitter;Braunschweig-Salzgitter;Braunschweig-Salzgitter
+DE086C;Aachen;Aachen;Aachen
+DE086F;Aachen;Aachen;Aachen
+DE087C;Krefeld;Krefeld;Krefeld
+DE087F;Krefeld;Krefeld;Krefeld
+DE088C;Oberhausen;Oberhausen;Oberhausen
+DE089C;Lübeck;Lübeck;Lübeck
+DE089F;Lübeck;Lübeck;Lübeck
+DE090C;Hagen;Hagen;Hagen
+DE091C;Kassel;Kassel;Kassel
+DE091F;Kassel;Kassel;Kassel
+DE092C;Hamm;Hamm;Hamm
+DE093C;Herne;Herne;Herne
+DE094C;Solingen;Solingen;Solingen
+DE094F;Solingen;Solingen;Solingen
+DE095C;Osnabrück;Osnabrück;Osnabrück
+DE095F;Osnabrück;Osnabrück;Osnabrück
+DE096C;Ludwigshafen am Rhein;Ludwigshafen am Rhein;Ludwigshafen am Rhein
+DE097C;Leverkusen;Leverkusen;Leverkusen
+DE098C;Oldenburg (Oldenburg);Oldenburg (Oldenburg);Oldenburg (Oldenburg)
+DE098F;Oldenburg (Oldenburg);Oldenburg (Oldenburg);Oldenburg (Oldenburg)
+DE099C;Neuss;Neuss;Neuss
+DE100C;Heidelberg;Heidelberg;Heidelberg
+DE100F;Heidelberg;Heidelberg;Heidelberg
+DE101C;Paderborn;Paderborn;Paderborn
+DE101F;Paderborn;Paderborn;Paderborn
+DE102C;Würzburg;Würzburg;Würzburg
+DE102F;Würzburg;Würzburg;Würzburg
+DE103C;Recklinghausen;Recklinghausen;Recklinghausen
+DE104C;Wolfsburg;Wolfsburg;Wolfsburg
+DE104F;Wolfsburg;Wolfsburg;Wolfsburg
+DE105C;Bremerhaven;Bremerhaven;Bremerhaven
+DE105F;Bremerhaven;Bremerhaven;Bremerhaven
+DE106C;Bottrop;Bottrop;Bottrop
+DE107C;Heilbronn;Heilbronn;Heilbronn
+DE107F;Heilbronn;Heilbronn;Heilbronn
+DE108C;Remscheid;Remscheid;Remscheid
+DE108F;Remscheid;Remscheid;Remscheid
+DE109C;Offenbach am Main;Offenbach am Main;Offenbach am Main
+DE110C;Ulm;Ulm;Ulm
+DE110F;Ulm;Ulm;Ulm
+DE111C;Pforzheim;Pforzheim;Pforzheim
+DE111F;Pforzheim;Pforzheim;Pforzheim
+DE112C;Ingolstadt;Ingolstadt;Ingolstadt
+DE112F;Ingolstadt;Ingolstadt;Ingolstadt
+DE113C;Gera;Gera;Gera
+DE113F;Gera;Gera;Gera
+DE114C;Salzgitter;Salzgitter;Salzgitter
+DE115C;Reutlingen;Reutlingen;Reutlingen
+DE115F;Reutlingen;Reutlingen;Reutlingen
+DE116C;Fürth;Fürth;Fürth
+DE117C;Cottbus;Cottbus;Cottbus
+DE117F;Cottbus;Cottbus;Cottbus
+DE118C;Siegen;Siegen;Siegen
+DE118F;Siegen;Siegen;Siegen
+DE119C;Bergisch Gladbach;Bergisch Gladbach;Bergisch Gladbach
+DE120C;Hildesheim;Hildesheim;Hildesheim
+DE120F;Hildesheim;Hildesheim;Hildesheim
+DE121C;Witten;Witten;Witten
+DE122C;Zwickau;Zwickau;Zwickau
+DE122F;Zwickau;Zwickau;Zwickau
+DE123C;Erlangen;Erlangen;Erlangen
+DE123F;Erlangen;Erlangen;Erlangen
+DE124C;Wuppertal;Wuppertal;Wuppertal
+DE124F;Wuppertal;Wuppertal;Wuppertal
+DE125C;Jena;Jena;Jena
+DE125F;Jena;Jena;Jena
+DE126C;Düren, Stadt;Düren, Stadt;Düren, Stadt
+DE126F;Düren, Stadt;Düren, Stadt;Düren, Stadt
+DE127C;Bocholt, Stadt;Bocholt, Stadt;Bocholt, Stadt
+DE127F;Bocholt, Stadt;Bocholt, Stadt;Bocholt, Stadt
+DE128C;Elmshorn;Elmshorn;Elmshorn
+DE129C;Norderstedt;Norderstedt;Norderstedt
+DE130C;Delmenhorst;Delmenhorst;Delmenhorst
+DE131C;Hilden;Hilden;Hilden
+DE132C;Langenfeld (Rheinland);Langenfeld (Rheinland);Langenfeld (Rheinland)
+DE133C;Ratingen;Ratingen;Ratingen
+DE134C;Dinslaken;Dinslaken;Dinslaken
+DE135C;Herzogenrath;Herzogenrath;Herzogenrath
+DE136C;Troisdorf (greater city);Troisdorf (greater city);Troisdorf (greater city)
+DE137C;Castrop-Rauxel;Castrop-Rauxel;Castrop-Rauxel
+DE138C;Gladbeck;Gladbeck;Gladbeck
+DE139C;Herten;Herten;Herten
+DE140C;Marl;Marl;Marl
+DE141C;Gütersloh;Gütersloh;Gütersloh
+DE142C;Hattingen;Hattingen;Hattingen
+DE143C;Lüdenscheid;Lüdenscheid;Lüdenscheid
+DE144C;Lünen;Lünen;Lünen
+DE145C;Unna;Unna;Unna
+DE146C;Rüsselsheim am Main (greater city);Rüsselsheim am Main (greater city);Rüsselsheim am Main (greater city)
+DE147C;Oberursel (greater city);Oberursel (greater city);Oberursel (greater city)
+DE148C;Böblingen;Böblingen;Böblingen
+DE149C;Esslingen am Neckar (greater city);Esslingen am Neckar (greater city);Esslingen am Neckar (greater city)
+DE150C;Göppingen (greater city);Göppingen (greater city);Göppingen (greater city)
+DE151C;Ludwigsburg (greater city);Ludwigsburg (greater city);Ludwigsburg (greater city)
+DE152C;Waiblingen (greater city);Waiblingen (greater city);Waiblingen (greater city)
+DE153C;Lörrach (greater city);Lörrach (greater city);Lörrach (greater city)
+EE;Estonia;Estonie;Estland
+EE001C;Tallinn;Tallinn;Tallinn
+EE001F;Tallinn;Tallinn;Tallinn
+EE002C;Tartu;Tartu;Tartu
+EE002F;Tartu;Tartu;Tartu
+EE003C;Narva;Narva;Narva
+EE003F;Narva;Narva;Narva
+IE;Ireland;Irlande;Irland
+IE001C;Dublin (greater city);Dublin (greater city);Dublin (greater city)
+IE001C1;Dublin;Dublin;Dublin
+IE001F;Dublin;Dublin;Dublin
+IE002C;Cork (greater city);Cork (greater city);Cork (greater city)
+IE002F;Cork;Cork;Cork
+IE003C;Limerick (greater city);Limerick (greater city);Limerick (greater city)
+IE003F;Limerick;Limerick;Limerick
+IE004C;Galway (greater city);Galway (greater city);Galway (greater city)
+IE004F;Galway;Galway;Galway
+IE005C;Waterford (greater city);Waterford (greater city);Waterford (greater city)
+IE005F;Waterford;Waterford;Waterford
+EL;Greece;Grèce;Griechenland
+EL001C;Athina (greater city);Athina (greater city);Athina (greater city)
+EL001C1;Athina;Athina;Athina
+EL001F;Athina;Athina;Athina
+EL002C;Thessaloniki (greater city);Thessaloniki (greater city);Thessaloniki (greater city)
+EL002F;Thessaloniki;Thessaloniki;Thessaloniki
+EL003C;Pátra (greater city);Pátra (greater city);Pátra (greater city)
+EL003F;Pátra;Pátra;Pátra
+EL004C;Irakleio (greater city);Irakleio (greater city);Irakleio (greater city)
+EL004F;Irakleio;Irakleio;Irakleio
+EL005C;Larisa;Larisa;Larisa
+EL005F;Larisa;Larisa;Larisa
+EL006C;Volos (greater city);Volos (greater city);Volos (greater city)
+EL006F;Volos;Volos;Volos
+EL007C;Ioannina (greater city);Ioannina (greater city);Ioannina (greater city)
+EL007F;Ioannina;Ioannina;Ioannina
+EL008C;Kavala;Kavala;Kavala
+EL008F;Kavala;Kavala;Kavala
+EL009C;Kalamata;Kalamata;Kalamata
+EL009F;Kalamata;Kalamata;Kalamata
+EL010C;Trikala;Trikala;Trikala
+EL010F;Trikala;Trikala;Trikala
+EL011C;Serres;Serres;Serres
+EL011F;Serres;Serres;Serres
+EL012C;Katerini;Katerini;Katerini
+EL012F;Katerini;Katerini;Katerini
+EL013C;Xanthi;Xanthi;Xanthi
+EL013F;Xanthi;Xanthi;Xanthi
+EL014C;Chania (greater city);Chania (greater city);Chania (greater city)
+EL014F;Chania;Chania;Chania
+EL015C;Chalkida;Chalkida;Chalkida
+ES;Spain;Espagne;Spanien
+ES001C;Madrid (greater city);Madrid (greater city);Madrid (greater city)
+ES001C1;Madrid;Madrid;Madrid
+ES001F;Madrid;Madrid;Madrid
+ES002C;Barcelona (greater city);Barcelona (greater city);Barcelona (greater city)
+ES002C1;Barcelona;Barcelona;Barcelona
+ES002F;Barcelona;Barcelona;Barcelona
+ES003C;Valencia (greater city);Valencia (greater city);Valencia (greater city)
+ES003F;Valencia;Valencia;Valencia
+ES004C;Sevilla;Sevilla;Sevilla
+ES004F;Sevilla;Sevilla;Sevilla
+ES005C;Zaragoza;Zaragoza;Zaragoza
+ES005F;Zaragoza;Zaragoza;Zaragoza
+ES006C;Málaga;Málaga;Málaga
+ES006F;Málaga;Málaga;Málaga
+ES007C;Murcia;Murcia;Murcia
+ES007F;Murcia;Murcia;Murcia
+ES008C;Las Palmas;Las Palmas;Las Palmas
+ES008F;Las Palmas;Las Palmas;Las Palmas
+ES009C;Valladolid (greater city);Valladolid (greater city);Valladolid (greater city)
+ES009F;Valladolid;Valladolid;Valladolid
+ES010C;Palma de Mallorca;Palma de Mallorca;Palma de Mallorca
+ES010F;Palma de Mallorca;Palma de Mallorca;Palma de Mallorca
+ES011C;Santiago de Compostela;Santiago de Compostela;Santiago de Compostela
+ES011F;Santiago de Compostela;Santiago de Compostela;Santiago de Compostela
+ES012C;Vitoria/Gasteiz;Vitoria/Gasteiz;Vitoria/Gasteiz
+ES012F;Vitoria/Gasteiz;Vitoria/Gasteiz;Vitoria/Gasteiz
+ES013C;Oviedo;Oviedo;Oviedo
+ES013F;Oviedo;Oviedo;Oviedo
+ES014C;Pamplona/Iruña (greater city);Pamplona/Iruña (greater city);Pamplona/Iruña (greater city)
+ES014F;Pamplona/Iruña;Pamplona/Iruña;Pamplona/Iruña
+ES015C;Santander;Santander;Santander
+ES015F;Santander;Santander;Santander
+ES016C;Toledo;Toledo;Toledo
+ES016F;Toledo;Toledo;Toledo
+ES017C;Badajoz;Badajoz;Badajoz
+ES017F;Badajoz;Badajoz;Badajoz
+ES018C;Logroño;Logroño;Logroño
+ES018F;Logroño;Logroño;Logroño
+ES019C;Bilbao (greater city);Bilbao (greater city);Bilbao (greater city)
+ES019F;Bilbao;Bilbao;Bilbao
+ES020C;Córdoba;Córdoba;Córdoba
+ES020F;Córdoba;Córdoba;Córdoba
+ES021C;Alicante/Alacant (greater city);Alicante/Alacant (greater city);Alicante/Alacant (greater city)
+ES021F;Alicante/Alacant;Alicante/Alacant;Alicante/Alacant
+ES022C;Vigo;Vigo;Vigo
+ES022F;Vigo;Vigo;Vigo
+ES023C;Gijón;Gijón;Gijón
+ES023F;Gijón;Gijón;Gijón
+ES024C;Santa Cruz de Tenerife (greater city);Santa Cruz de Tenerife (greater city);Santa Cruz de Tenerife (greater city)
+ES024F;Santa Cruz de Tenerife;Santa Cruz de Tenerife;Santa Cruz de Tenerife
+ES025C;A Coruña (greater city);A Coruña (greater city);A Coruña (greater city)
+ES025F;A Coruña;A Coruña;A Coruña
+ES026C;Reus;Reus;Reus
+ES026F;Reus;Reus;Reus
+ES027C;Telde;Telde;Telde
+ES028C;Lugo;Lugo;Lugo
+ES028F;Lugo;Lugo;Lugo
+ES029C;San Fernando;San Fernando;San Fernando
+ES030C;Girona (greater city);Girona (greater city);Girona (greater city)
+ES030F;Girona;Girona;Girona
+ES031C;Cáceres;Cáceres;Cáceres
+ES031F;Cáceres;Cáceres;Cáceres
+ES032C;Torrevieja;Torrevieja;Torrevieja
+ES032F;Torrevieja;Torrevieja;Torrevieja
+ES033C;Puerto de Santa María, El;Puerto de Santa María, El;Puerto de Santa María, El
+ES033F;Puerto de Santa María, El;Puerto de Santa María, El;Puerto de Santa María, El
+ES034C;Avilés (greater city);Avilés (greater city);Avilés (greater city)
+ES034F;Avilés;Avilés;Avilés
+ES035C;Talavera de la Reina;Talavera de la Reina;Talavera de la Reina
+ES035F;Talavera de la Reina;Talavera de la Reina;Talavera de la Reina
+ES036C;Palencia;Palencia;Palencia
+ES036F;Palencia;Palencia;Palencia
+ES037C;Ferrol (greater city);Ferrol (greater city);Ferrol (greater city)
+ES037F;Ferrol;Ferrol;Ferrol
+ES038C;Pontevedra;Pontevedra;Pontevedra
+ES038F;Pontevedra;Pontevedra;Pontevedra
+ES039C;Ceuta;Ceuta;Ceuta
+ES039F;Ceuta;Ceuta;Ceuta
+ES040C;Gandia (greater city);Gandia (greater city);Gandia (greater city)
+ES040F;Gandia;Gandia;Gandia
+ES041C;Guadalajara;Guadalajara;Guadalajara
+ES041F;Guadalajara;Guadalajara;Guadalajara
+ES042C;Manresa (greater city);Manresa (greater city);Manresa (greater city)
+ES042F;Manresa;Manresa;Manresa
+ES043C;Ciudad Real;Ciudad Real;Ciudad Real
+ES043F;Ciudad Real;Ciudad Real;Ciudad Real
+ES044C;Benidorm;Benidorm;Benidorm
+ES044F;Benidorm;Benidorm;Benidorm
+ES045C;Melilla;Melilla;Melilla
+ES045F;Melilla;Melilla;Melilla
+ES046C;Ponferrada;Ponferrada;Ponferrada
+ES046F;Ponferrada;Ponferrada;Ponferrada
+ES047C;Zamora;Zamora;Zamora
+ES047F;Zamora;Zamora;Zamora
+ES048C;Fuengirola;Fuengirola;Fuengirola
+ES049C;Sanlúcar de Barrameda;Sanlúcar de Barrameda;Sanlúcar de Barrameda
+ES049F;Sanlúcar de Barrameda;Sanlúcar de Barrameda;Sanlúcar de Barrameda
+ES050C;Vilanova i la Geltrú;Vilanova i la Geltrú;Vilanova i la Geltrú
+ES051C;Línea de la Concepción, La;Línea de la Concepción, La;Línea de la Concepción, La
+ES051F;Línea de la Concepción, La;Línea de la Concepción, La;Línea de la Concepción, La
+ES052C;Torremolinos (greater city);Torremolinos (greater city);Torremolinos (greater city)
+ES053C;Irun (greater city);Irun (greater city);Irun (greater city)
+ES053F;Irun;Irun;Irun
+ES054C;Granollers (greater city);Granollers (greater city);Granollers (greater city)
+ES055C;Arrecife;Arrecife;Arrecife
+ES055F;Arrecife;Arrecife;Arrecife
+ES056C;Elda (greater city);Elda (greater city);Elda (greater city)
+ES056F;Elda;Elda;Elda
+ES057C;Santa Lucía de Tirajana;Santa Lucía de Tirajana;Santa Lucía de Tirajana
+ES057F;Santa Lucía de Tirajana;Santa Lucía de Tirajana;Santa Lucía de Tirajana
+ES058C;Mollet del Vallès (greater city);Mollet del Vallès (greater city);Mollet del Vallès (greater city)
+ES059C;Granada (greater city);Granada (greater city);Granada (greater city)
+ES059F;Granada;Granada;Granada
+ES060C;Elche/Elx;Elche/Elx;Elche/Elx
+ES060F;Elche/Elx;Elche/Elx;Elche/Elx
+ES061C;Cartagena;Cartagena;Cartagena
+ES061F;Cartagena;Cartagena;Cartagena
+ES062C;Jerez de la Frontera;Jerez de la Frontera;Jerez de la Frontera
+ES062F;Jerez de la Frontera;Jerez de la Frontera;Jerez de la Frontera
+ES063C;San Sebastián/Donostia (greater city);San Sebastián/Donostia (greater city);San Sebastián/Donostia (greater city)
+ES063F;San Sebastián/Donostia;San Sebastián/Donostia;San Sebastián/Donostia
+ES064C;Alcalá de Henares;Alcalá de Henares;Alcalá de Henares
+ES065C;Almería (greater city);Almería (greater city);Almería (greater city)
+ES065F;Almería;Almería;Almería
+ES066C;Burgos;Burgos;Burgos
+ES066F;Burgos;Burgos;Burgos
+ES067C;Salamanca (greater city);Salamanca (greater city);Salamanca (greater city)
+ES067F;Salamanca;Salamanca;Salamanca
+ES068C;Albacete;Albacete;Albacete
+ES068F;Albacete;Albacete;Albacete
+ES069C;Castellón de la Plana/Castelló de la Plana;Castellón de la Plana/Castelló de la Plana;Castellón de la Plana/Castelló de la Plana
+ES069F;Castellón de la Plana/Castelló de la Plana;Castellón de la Plana/Castelló de la Plana;Castellón de la Plana/Castelló de la Plana
+ES070C;Huelva;Huelva;Huelva
+ES070F;Huelva;Huelva;Huelva
+ES071C;Cádiz;Cádiz;Cádiz
+ES071F;Cádiz;Cádiz;Cádiz
+ES072C;León (greater city);León (greater city);León (greater city)
+ES072F;León;León;León
+ES073C;Tarragona (greater city);Tarragona (greater city);Tarragona (greater city)
+ES073F;Tarragona;Tarragona;Tarragona
+ES074C;Jaén;Jaén;Jaén
+ES074F;Jaén;Jaén;Jaén
+ES075C;Lleida;Lleida;Lleida
+ES075F;Lleida;Lleida;Lleida
+ES076C;Ourense (greater city);Ourense (greater city);Ourense (greater city)
+ES076F;Ourense;Ourense;Ourense
+ES077C;Mataró;Mataró;Mataró
+ES078C;Dos Hermanas;Dos Hermanas;Dos Hermanas
+ES079C;Algeciras;Algeciras;Algeciras
+ES079F;Algeciras;Algeciras;Algeciras
+ES080C;Marbella;Marbella;Marbella
+ES080F;Marbella;Marbella;Marbella
+ES081C;Torrejón de Ardoz;Torrejón de Ardoz;Torrejón de Ardoz
+ES082C;Alcalá de Guadaíra;Alcalá de Guadaíra;Alcalá de Guadaíra
+ES083C;Alcoy;Alcoy;Alcoy
+ES083F;Alcoy;Alcoy;Alcoy
+ES084C;Ávila;Ávila;Ávila
+ES084F;Ávila;Ávila;Ávila
+ES085C;Benalmádena;Benalmádena;Benalmádena
+ES086C;Chiclana de la Frontera;Chiclana de la Frontera;Chiclana de la Frontera
+ES086F;Chiclana de la Frontera;Chiclana de la Frontera;Chiclana de la Frontera
+ES087C;Collado Villalba;Collado Villalba;Collado Villalba
+ES088C;Cuenca;Cuenca;Cuenca
+ES088F;Cuenca;Cuenca;Cuenca
+ES089C;Eivissa;Eivissa;Eivissa
+ES089F;Eivissa;Eivissa;Eivissa
+ES090C;Linares;Linares;Linares
+ES090F;Linares;Linares;Linares
+ES091C;Lorca;Lorca;Lorca
+ES091F;Lorca;Lorca;Lorca
+ES092C;Mérida;Mérida;Mérida
+ES092F;Mérida;Mérida;Mérida
+ES093C;Sagunto (greater city);Sagunto (greater city);Sagunto (greater city)
+ES093F;Sagunto;Sagunto;Sagunto
+ES094C;Torrelavega;Torrelavega;Torrelavega
+ES095C;Valdemoro;Valdemoro;Valdemoro
+ES096C;Puerto de la Cruz (greater city);Puerto de la Cruz (greater city);Puerto de la Cruz (greater city)
+ES096F;Puerto de la Cruz;Puerto de la Cruz;Puerto de la Cruz
+ES097C;Igualada (greater city);Igualada (greater city);Igualada (greater city)
+ES097F;Igualada;Igualada;Igualada
+ES098C;San Vicente del Raspeig/Sant Vicent del Raspeig;San Vicente del Raspeig/Sant Vicent del Raspeig;San Vicente del Raspeig/Sant Vicent del Raspeig
+ES099C;Vícar;Vícar;Vícar
+ES100C;Armilla (greater city);Armilla (greater city);Armilla (greater city)
+ES101C;Mairena del Aljarafe (greater city);Mairena del Aljarafe (greater city);Mairena del Aljarafe (greater city)
+ES102C;Aranjuez;Aranjuez;Aranjuez
+ES103C;Parla;Parla;Parla
+ES104C;Pinto;Pinto;Pinto
+ES105C;Arganda del Rey;Arganda del Rey;Arganda del Rey
+ES106C;Fuenlabrada;Fuenlabrada;Fuenlabrada
+ES107C;Rivas-Vaciamadrid;Rivas-Vaciamadrid;Rivas-Vaciamadrid
+ES108C;Coslada (greater city);Coslada (greater city);Coslada (greater city)
+ES109C;Las Rozas de Madrid (greater city);Las Rozas de Madrid (greater city);Las Rozas de Madrid (greater city)
+ES110C;Castelldefels;Castelldefels;Castelldefels
+ES111C;Viladecans (greater city);Viladecans (greater city);Viladecans (greater city)
+ES112C;Prat de Llobregat, El;Prat de Llobregat, El;Prat de Llobregat, El
+ES113C;Sant Boi de Llobregat;Sant Boi de Llobregat;Sant Boi de Llobregat
+ES114C;Sant Cugat del Vallès (greater city);Sant Cugat del Vallès (greater city);Sant Cugat del Vallès (greater city)
+ES115C;Premià de Mar (greater city);Premià de Mar (greater city);Premià de Mar (greater city)
+ES116C;Sabadell (greater city);Sabadell (greater city);Sabadell (greater city)
+ES117C;Terrassa;Terrassa;Terrassa
+ES118C;Huesca;Huesca;Huesca
+FR;France;France;Frankreich
+FR001C;Paris (greater city);Paris (greater city);Paris (greater city)
+FR001C1;Paris;Paris;Paris
+FR001F;Paris;Paris;Paris
+FR002C;Lyon (greater city);Lyon (greater city);Lyon (greater city)
+FR002F;Lyon;Lyon;Lyon
+FR003C;Lille (greater city);Lille (greater city);Lille (greater city)
+FR003F;Lille;Lille;Lille
+FR004C;Marseille (greater city);Marseille (greater city);Marseille (greater city)
+FR004F;Marseille;Marseille;Marseille
+FR005C;Bordeaux (greater city);Bordeaux (greater city);Bordeaux (greater city)
+FR005F;Bordeaux;Bordeaux;Bordeaux
+FR006C;Toulouse (greater city);Toulouse (greater city);Toulouse (greater city)
+FR006F;Toulouse;Toulouse;Toulouse
+FR007C;Nantes (greater city);Nantes (greater city);Nantes (greater city)
+FR007F;Nantes;Nantes;Nantes
+FR008C;Nice (greater city);Nice (greater city);Nice (greater city)
+FR008F;Nice;Nice;Nice
+FR009C;Strasbourg (greater city);Strasbourg (greater city);Strasbourg (greater city)
+FR009F;Strasbourg;Strasbourg;Strasbourg
+FR010C;Rouen (greater city);Rouen (greater city);Rouen (greater city)
+FR010F;Rouen;Rouen;Rouen
+FR011C;Montpellier (greater city);Montpellier (greater city);Montpellier (greater city)
+FR011F;Montpellier;Montpellier;Montpellier
+FR012C;Grenoble (greater city);Grenoble (greater city);Grenoble (greater city)
+FR012F;Grenoble;Grenoble;Grenoble
+FR013C;Tours (greater city);Tours (greater city);Tours (greater city)
+FR013F;Tours;Tours;Tours
+FR014C;Cannes-Antibes (greater city);Cannes-Antibes (greater city);Cannes-Antibes (greater city)
+FR014F;Cannes-Antibes;Cannes-Antibes;Cannes-Antibes
+FR015C;Toulon (greater city);Toulon (greater city);Toulon (greater city)
+FR015F;Toulon;Toulon;Toulon
+FR016C;Rennes (greater city);Rennes (greater city);Rennes (greater city)
+FR016F;Rennes;Rennes;Rennes
+FR017C;Reims (greater city);Reims (greater city);Reims (greater city)
+FR017F;Reims;Reims;Reims
+FR018C;Orléans (greater city);Orléans (greater city);Orléans (greater city)
+FR018F;Orléans;Orléans;Orléans
+FR019C;Nancy (greater city);Nancy (greater city);Nancy (greater city)
+FR019F;Nancy;Nancy;Nancy
+FR020C;Dijon (greater city);Dijon (greater city);Dijon (greater city)
+FR020F;Dijon;Dijon;Dijon
+FR021C;Clermont-Ferrand (greater city);Clermont-Ferrand (greater city);Clermont-Ferrand (greater city)
+FR021F;Clermont-Ferrand;Clermont-Ferrand;Clermont-Ferrand
+FR022C;Le Havre (greater city);Le Havre (greater city);Le Havre (greater city)
+FR022F;Le Havre;Le Havre;Le Havre
+FR023C;Saint-Étienne (greater city);Saint-Étienne (greater city);Saint-Étienne (greater city)
+FR023F;Saint-Étienne;Saint-Étienne;Saint-Étienne
+FR024C;Angers (greater city);Angers (greater city);Angers (greater city)
+FR024F;Angers;Angers;Angers
+FR025C;Mulhouse (greater city);Mulhouse (greater city);Mulhouse (greater city)
+FR025F;Mulhouse;Mulhouse;Mulhouse
+FR026C;Lens (greater city);Lens (greater city);Lens (greater city)
+FR026F;Lens;Lens;Lens
+FR027C;Metz (greater city);Metz (greater city);Metz (greater city)
+FR027F;Metz;Metz;Metz
+FR028C;Nîmes;Nîmes;Nîmes
+FR028F;Nîmes;Nîmes;Nîmes
+FR029C;Le Mans (greater city);Le Mans (greater city);Le Mans (greater city)
+FR029F;Le Mans;Le Mans;Le Mans
+FR030C;Saint-Denis;Saint-Denis;Saint-Denis
+FR030F;Saint-Denis;Saint-Denis;Saint-Denis
+FR031C;Caen (greater city);Caen (greater city);Caen (greater city)
+FR031F;Caen;Caen;Caen
+FR032C;Limoges (greater city);Limoges (greater city);Limoges (greater city)
+FR032F;Limoges;Limoges;Limoges
+FR033C;Aix-en-Provence;Aix-en-Provence;Aix-en-Provence
+FR034C;Brest;Brest;Brest
+FR034F;Brest;Brest;Brest
+FR035C;Amiens (greater city);Amiens (greater city);Amiens (greater city)
+FR035F;Amiens;Amiens;Amiens
+FR036C;Dunkerque (greater city);Dunkerque (greater city);Dunkerque (greater city)
+FR036F;Dunkerque;Dunkerque;Dunkerque
+FR037C;Perpignan (greater city);Perpignan (greater city);Perpignan (greater city)
+FR037F;Perpignan;Perpignan;Perpignan
+FR038C;Annecy (greater city);Annecy (greater city);Annecy (greater city)
+FR038F;Annecy;Annecy;Annecy
+FR039C;Besançon;Besançon;Besançon
+FR039F;Besançon;Besançon;Besançon
+FR040C;Bayonne (greater city);Bayonne (greater city);Bayonne (greater city)
+FR040F;Bayonne;Bayonne;Bayonne
+FR041C;La Seyne-sur-Mer (greater city);La Seyne-sur-Mer (greater city);La Seyne-sur-Mer (greater city)
+FR042C;Pau (greater city);Pau (greater city);Pau (greater city)
+FR042F;Pau;Pau;Pau
+FR043C;Avignon (greater city);Avignon (greater city);Avignon (greater city)
+FR043F;Avignon;Avignon;Avignon
+FR044C;Troyes (greater city);Troyes (greater city);Troyes (greater city)
+FR044F;Troyes;Troyes;Troyes
+FR045C;Valenciennes (greater city);Valenciennes (greater city);Valenciennes (greater city)
+FR045F;Valenciennes;Valenciennes;Valenciennes
+FR046C;Fort-de-France (greater city);Fort-de-France (greater city);Fort-de-France (greater city)
+FR046F;Fort-de-France;Fort-de-France;Fort-de-France
+FR047C;Poitiers (greater city);Poitiers (greater city);Poitiers (greater city)
+FR047F;Poitiers;Poitiers;Poitiers
+FR048C;Valence (greater city);Valence (greater city);Valence (greater city)
+FR048F;Valence;Valence;Valence
+FR049C;Fréjus (greater city);Fréjus (greater city);Fréjus (greater city)
+FR049F;Fréjus;Fréjus;Fréjus
+FR050C;Chambéry (greater city);Chambéry (greater city);Chambéry (greater city)
+FR050F;Chambéry;Chambéry;Chambéry
+FR051C;Mantes-la-Jolie (greater city);Mantes-la-Jolie (greater city);Mantes-la-Jolie (greater city)
+FR052C;Douai (greater city);Douai (greater city);Douai (greater city)
+FR052F;Douai;Douai;Douai
+FR053C;Melun (greater city);Melun (greater city);Melun (greater city)
+FR054C;La Rochelle (greater city);La Rochelle (greater city);La Rochelle (greater city)
+FR054F;La Rochelle;La Rochelle;La Rochelle
+FR055C;Lorient (greater city);Lorient (greater city);Lorient (greater city)
+FR055F;Lorient;Lorient;Lorient
+FR056C;Cherbourg-en-Cotentin;Cherbourg-en-Cotentin;Cherbourg-en-Cotentin
+FR056F;Cherbourg-en-Cotentin;Cherbourg-en-Cotentin;Cherbourg-en-Cotentin
+FR057C;Béziers;Béziers;Béziers
+FR057F;Béziers;Béziers;Béziers
+FR058C;Chartres (greater city);Chartres (greater city);Chartres (greater city)
+FR058F;Chartres;Chartres;Chartres
+FR059C;Creil (greater city);Creil (greater city);Creil (greater city)
+FR060C;Boulogne-sur-Mer (greater city);Boulogne-sur-Mer (greater city);Boulogne-sur-Mer (greater city)
+FR060F;Boulogne-sur-mer;Boulogne-sur-mer;Boulogne-sur-mer
+FR061C;Calais (greater city);Calais (greater city);Calais (greater city)
+FR061F;Calais;Calais;Calais
+FR062C;Mamoudzou;Mamoudzou;Mamoudzou
+FR062F;Mamoudzou;Mamoudzou;Mamoudzou
+FR063C;Montbéliard (greater city);Montbéliard (greater city);Montbéliard (greater city)
+FR063F;Montbéliard;Montbéliard;Montbéliard
+FR064C;Arras (greater city);Arras (greater city);Arras (greater city)
+FR064F;Arras;Arras;Arras
+FR065C;Colmar (greater city);Colmar (greater city);Colmar (greater city)
+FR065F;Colmar;Colmar;Colmar
+FR066C;Martigues (greater city);Martigues (greater city);Martigues (greater city)
+FR067C;Meaux (greater city);Meaux (greater city);Meaux (greater city)
+FR068C;Bourges;Bourges;Bourges
+FR068F;Bourges;Bourges;Bourges
+FR069C;Saint-Brieuc (greater city);Saint-Brieuc (greater city);Saint-Brieuc (greater city)
+FR069F;Saint-Brieuc;Saint-Brieuc;Saint-Brieuc
+FR070C;Quimper;Quimper;Quimper
+FR070F;Quimper;Quimper;Quimper
+FR071C;Belfort (greater city);Belfort (greater city);Belfort (greater city)
+FR071F;Belfort;Belfort;Belfort
+FR072C;Cayenne;Cayenne;Cayenne
+FR072F;Cayenne;Cayenne;Cayenne
+FR073C;Hayange;Hayange;Hayange
+FR073F;Hayange;Hayange;Hayange
+FR074C;Saint-Louis;Saint-Louis;Saint-Louis
+FR074F;Saint-Louis;Saint-Louis;Saint-Louis
+FR075C;Vannes;Vannes;Vannes
+FR075F;Vannes;Vannes;Vannes
+FR076C;Annemasse-Geneva (French part) (greater city);Annemasse-Genève (la partie française) (greater city);Annemasse-Genf (französischer Teil) (greater city)
+FR076F;Annemasse-Geneva (French part);Annemasse-Genève (la partie française);Annemasse-Genf (französischer Teil)
+FR077C;Saint-Louis-Bâle, (French part) (greater city);Saint-Louis-Bâle (la partie française) (greater city);Saint-Louis-Basel (französischer Teil) (greater city)
+FR077F;Saint-Louis-Basel (French part);Saint-Louis-Bâle (la partie française);Saint-Louis-Basel (französischer Teil)
+FR078C;Ajaccio;Ajaccio;Ajaccio
+FR079C;Roanne (greater city);Roanne (greater city);Roanne (greater city)
+FR080C;Irun-Hendaye, FR part;Irun-Hendaye, FR part;Irun-Hendaye, FR part
+FR081C;Tarbes (greater city);Tarbes (greater city);Tarbes (greater city)
+HR;Croatia;Croatie;Kroatien
+HR001C;Zagreb;Zagreb;Zagreb
+HR001F;Zagreb;Zagreb;Zagreb
+HR002C;Rijeka;Rijeka;Rijeka
+HR002F;Rijeka;Rijeka;Rijeka
+HR003C;Slavonski Brod;Slavonski Brod;Slavonski Brod
+HR003F;Slavonski Brod;Slavonski Brod;Slavonski Brod
+HR004C;Osijek;Osijek;Osijek
+HR004F;Osijek;Osijek;Osijek
+HR005C;Split (greater city);Split (greater city);Split (greater city)
+HR005F;Split;Split;Split
+HR006C;Pula/Pola;Pula/Pola;Pula/Pola
+HR006F;Pula/Pola;Pula/Pola;Pula/Pola
+HR007C;Zadar;Zadar;Zadar
+HR007F;Zadar;Zadar;Zadar
+IT;Italy;Italie;Italien
+IT001C;Roma;Roma;Roma
+IT001F;Roma;Roma;Roma
+IT002C;Milano (greater city);Milano (greater city);Milano (greater city)
+IT002F;Milano;Milano;Milano
+IT003C;Napoli (greater city);Napoli (greater city);Napoli (greater city)
+IT003C1;Napoli;Napoli;Napoli
+IT003F;Napoli;Napoli;Napoli
+IT004C;Torino;Torino;Torino
+IT004F;Torino;Torino;Torino
+IT005C;Palermo;Palermo;Palermo
+IT005F;Palermo;Palermo;Palermo
+IT006C;Genova;Genova;Genova
+IT006F;Genova;Genova;Genova
+IT007C;Firenze;Firenze;Firenze
+IT007F;Firenze;Firenze;Firenze
+IT008C;Bari;Bari;Bari
+IT008F;Bari;Bari;Bari
+IT009C;Bologna;Bologna;Bologna
+IT009F;Bologna;Bologna;Bologna
+IT010C;Catania (greater city);Catania (greater city);Catania (greater city)
+IT010F;Catania;Catania;Catania
+IT011C;Venezia;Venezia;Venezia
+IT011F;Venezia;Venezia;Venezia
+IT012C;Verona;Verona;Verona
+IT012F;Verona;Verona;Verona
+IT013C;Cremona;Cremona;Cremona
+IT013F;Cremona;Cremona;Cremona
+IT014C;Trento;Trento;Trento
+IT014F;Trento;Trento;Trento
+IT015C;Trieste;Trieste;Trieste
+IT015F;Trieste;Trieste;Trieste
+IT016C;Perugia;Perugia;Perugia
+IT016F;Perugia;Perugia;Perugia
+IT017C;Ancona;Ancona;Ancona
+IT017F;Ancona;Ancona;Ancona
+IT018C;Pescara (greater city);Pescara (greater city);Pescara (greater city)
+IT018F;Pescara;Pescara;Pescara
+IT019C;Campobasso;Campobasso;Campobasso
+IT019F;Campobasso;Campobasso;Campobasso
+IT020C;Caserta  (greater city);Caserta  (greater city);Caserta  (greater city)
+IT020F;Caserta;Caserta;Caserta
+IT021C;Taranto;Taranto;Taranto
+IT021F;Taranto;Taranto;Taranto
+IT022C;Potenza;Potenza;Potenza
+IT022F;Potenza;Potenza;Potenza
+IT023C;Catanzaro;Catanzaro;Catanzaro
+IT023F;Catanzaro;Catanzaro;Catanzaro
+IT024C;Reggio di Calabria;Reggio di Calabria;Reggio di Calabria
+IT024F;Reggio di Calabria;Reggio di Calabria;Reggio di Calabria
+IT025C;Sassari;Sassari;Sassari
+IT025F;Sassari;Sassari;Sassari
+IT026C;Cagliari (greater city);Cagliari (greater city);Cagliari (greater city)
+IT026F;Cagliari;Cagliari;Cagliari
+IT027C;Padova;Padova;Padova
+IT027F;Padova;Padova;Padova
+IT028C;Brescia;Brescia;Brescia
+IT028F;Brescia;Brescia;Brescia
+IT029C;Modena;Modena;Modena
+IT029F;Modena;Modena;Modena
+IT030C;Foggia;Foggia;Foggia
+IT030F;Foggia;Foggia;Foggia
+IT031C;Salerno;Salerno;Salerno
+IT031F;Salerno;Salerno;Salerno
+IT032C;Piacenza;Piacenza;Piacenza
+IT032F;Piacenza;Piacenza;Piacenza
+IT033C;Bolzano;Bolzano;Bolzano
+IT033F;Bolzano;Bolzano;Bolzano
+IT034C;Udine;Udine;Udine
+IT034F;Udine;Udine;Udine
+IT035C;La Spezia;La Spezia;La Spezia
+IT035F;La Spezia;La Spezia;La Spezia
+IT036C;Lecce;Lecce;Lecce
+IT036F;Lecce;Lecce;Lecce
+IT037C;Barletta;Barletta;Barletta
+IT037F;Barletta;Barletta;Barletta
+IT038C;Pesaro;Pesaro;Pesaro
+IT038F;Pesaro;Pesaro;Pesaro
+IT039C;Como;Como;Como
+IT039F;Como;Como;Como
+IT040C;Pisa;Pisa;Pisa
+IT040F;Pisa;Pisa;Pisa
+IT041C;Treviso;Treviso;Treviso
+IT041F;Treviso;Treviso;Treviso
+IT042C;Varese;Varese;Varese
+IT042F;Varese;Varese;Varese
+IT043C;Asti;Asti;Asti
+IT043F;Asti;Asti;Asti
+IT044C;Pavia;Pavia;Pavia
+IT044F;Pavia;Pavia;Pavia
+IT045C;Massa;Massa;Massa
+IT045F;Massa;Massa;Massa
+IT046C;Cosenza (greater city);Cosenza (greater city);Cosenza (greater city)
+IT046F;Cosenza;Cosenza;Cosenza
+IT047C;Savona;Savona;Savona
+IT047F;Savona;Savona;Savona
+IT048C;Matera;Matera;Matera
+IT048F;Matera;Matera;Matera
+IT049C;Acireale (greater city);Acireale (greater city);Acireale (greater city)
+IT049F;Acireale;Acireale;Acireale
+IT050C;Avellino;Avellino;Avellino
+IT050F;Avellino;Avellino;Avellino
+IT051C;Pordenone;Pordenone;Pordenone
+IT051F;Pordenone;Pordenone;Pordenone
+IT052C;Lecco;Lecco;Lecco
+IT052F;Lecco;Lecco;Lecco
+IT053C;Altamura;Altamura;Altamura
+IT053F;Altamura;Altamura;Altamura
+IT054C;Bitonto;Bitonto;Bitonto
+IT055C;Molfetta;Molfetta;Molfetta
+IT056C;Battipaglia;Battipaglia;Battipaglia
+IT056F;Battipaglia;Battipaglia;Battipaglia
+IT057C;Bisceglie;Bisceglie;Bisceglie
+IT057F;Bisceglie;Bisceglie;Bisceglie
+IT058C;Carpi;Carpi;Carpi
+IT058F;Carpi;Carpi;Carpi
+IT059C;Cerignola;Cerignola;Cerignola
+IT059F;Cerignola;Cerignola;Cerignola
+IT060C;Gela;Gela;Gela
+IT060F;Gela;Gela;Gela
+IT061C;Bagheria;Bagheria;Bagheria
+IT062C;Anzio (greater city);Anzio (greater city);Anzio (greater city)
+IT063C;Sassuolo;Sassuolo;Sassuolo
+IT063F;Sassuolo;Sassuolo;Sassuolo
+IT064C;Messina;Messina;Messina
+IT064F;Messina;Messina;Messina
+IT065C;Prato;Prato;Prato
+IT065F;Prato;Prato;Prato
+IT066C;Parma;Parma;Parma
+IT066F;Parma;Parma;Parma
+IT067C;Livorno;Livorno;Livorno
+IT067F;Livorno;Livorno;Livorno
+IT068C;Reggio nell'Emilia;Reggio nell'Emilia;Reggio nell'Emilia
+IT068F;Reggio nell'Emilia;Reggio nell'Emilia;Reggio nell'Emilia
+IT069C;Ravenna;Ravenna;Ravenna
+IT069F;Ravenna;Ravenna;Ravenna
+IT070C;Ferrara;Ferrara;Ferrara
+IT070F;Ferrara;Ferrara;Ferrara
+IT071C;Rimini;Rimini;Rimini
+IT071F;Rimini;Rimini;Rimini
+IT072C;Siracusa;Siracusa;Siracusa
+IT072F;Siracusa;Siracusa;Siracusa
+IT073C;Bergamo (greater city);Bergamo (greater city);Bergamo (greater city)
+IT073F;Bergamo;Bergamo;Bergamo
+IT074C;Forlì;Forlì;Forlì
+IT074F;Forlì;Forlì;Forlì
+IT075C;Latina;Latina;Latina
+IT075F;Latina;Latina;Latina
+IT076C;Vicenza;Vicenza;Vicenza
+IT076F;Vicenza;Vicenza;Vicenza
+IT077C;Terni;Terni;Terni
+IT077F;Terni;Terni;Terni
+IT078C;Novara;Novara;Novara
+IT078F;Novara;Novara;Novara
+IT079C;Alessandria;Alessandria;Alessandria
+IT079F;Alessandria;Alessandria;Alessandria
+IT080C;Arezzo;Arezzo;Arezzo
+IT080F;Arezzo;Arezzo;Arezzo
+IT081C;Grosseto;Grosseto;Grosseto
+IT081F;Grosseto;Grosseto;Grosseto
+IT082C;Brindisi;Brindisi;Brindisi
+IT082F;Brindisi;Brindisi;Brindisi
+IT083C;Trapani;Trapani;Trapani
+IT083F;Trapani;Trapani;Trapani
+IT084C;Ragusa;Ragusa;Ragusa
+IT084F;Ragusa;Ragusa;Ragusa
+IT085C;Andria;Andria;Andria
+IT085F;Andria;Andria;Andria
+IT086C;Trani;Trani;Trani
+IT086F;Trani;Trani;Trani
+IT087C;L'Aquila;L'Aquila;L'Aquila
+IT087F;L'Aquila;L'Aquila;L'Aquila
+IT088C;Vigevano;Vigevano;Vigevano
+IT089C;Guidonia Montecelio (greater city);Guidonia Montecelio (greater city);Guidonia Montecelio (greater city)
+IT090C;Tivoli;Tivoli;Tivoli
+CY;Cyprus;Chypre;Zypern
+CY001C;Lefkosia (greater city);Lefkosia (greater city);Lefkosia (greater city)
+CY001F;Lefkosia;Lefkosia;Lefkosia
+CY002C;Larnaka (greater city);Larnaka (greater city);Larnaka (greater city)
+CY002F;Larnaka;Larnaka;Larnaka
+CY003C;Lemesos (greater city);Lemesos (greater city);Lemesos (greater city)
+CY003F;Lemesos;Lemesos;Lemesos
+LV;Latvia;Lettonie;Lettland
+LV001C;Rīga;Rīga;Rīga
+LV001F;Riga;Riga;Riga
+LV002C;Liepāja;Liepāja;Liepāja
+LV002F;Liepaja;Liepaja;Liepaja
+LV003C;Jelgava;Jelgava;Jelgava
+LV003F;Jelgava;Jelgava;Jelgava
+LV004C;Daugavpils;Daugavpils;Daugavpils
+LV004F;Daugavpils;Daugavpils;Daugavpils
+LV005C;Jurmala;Jurmala;Jurmala
+LV006C;Ventspils;Ventspils;Ventspils
+LV007C;Rezekne;Rezekne;Rezekne
+LV008C;Valmiera;Valmiera;Valmiera
+LV009C;Jekabpils;Jekabpils;Jekabpils
+LV010C;Ogre;Ogre;Ogre
+LT;Lithuania;Lituanie;Litauen
+LT001C;Vilnius;Vilnius;Vilnius
+LT001F;Vilnius;Vilnius;Vilnius
+LT002C;Kaunas;Kaunas;Kaunas
+LT002F;Kaunas;Kaunas;Kaunas
+LT003C;Panevėžys;Panevėžys;Panevėžys
+LT003F;Panevežys;Panevežys;Panevežys
+LT004C;Alytus;Alytus;Alytus
+LT004F;Alytus;Alytus;Alytus
+LT005C;Klaipėda;Klaipėda;Klaipėda
+LT005F;Klaipeda;Klaipeda;Klaipeda
+LT006C;Šiauliai;Šiauliai;Šiauliai
+LT006F;Šiauliai;Šiauliai;Šiauliai
+LU;Luxembourg;Luxembourg;Luxemburg
+LU001C;Luxembourg (greater city);Luxembourg (greater city);Luxembourg (greater city)
+LU001F;Luxembourg;Luxembourg;Luxembourg
+HU;Hungary;Hongrie;Ungarn
+HU001C;Budapest (greater city);Budapest (greater city);Budapest (greater city)
+HU001F;Budapest;Budapest;Budapest
+HU002C;Miskolc;Miskolc;Miskolc
+HU002F;Miskolc;Miskolc;Miskolc
+HU003C;Nyíregyháza;Nyíregyháza;Nyíregyháza
+HU003F;Nyíregyháza;Nyíregyháza;Nyíregyháza
+HU004C;Pécs;Pécs;Pécs
+HU004F;Pécs;Pécs;Pécs
+HU005C;Debrecen;Debrecen;Debrecen
+HU005F;Debrecen;Debrecen;Debrecen
+HU006C;Szeged;Szeged;Szeged
+HU006F;Szeged;Szeged;Szeged
+HU007C;Gyõr;Gyõr;Gyõr
+HU007F;Gyõr;Gyõr;Gyõr
+HU008C;Kecskemét;Kecskemét;Kecskemét
+HU008F;Kecskemét;Kecskemét;Kecskemét
+HU009C;Székesfehérvár;Székesfehérvár;Székesfehérvár
+HU009F;Székesfehérvár;Székesfehérvár;Székesfehérvár
+HU010C;Szombathely;Szombathely;Szombathely
+HU010F;Szombathely;Szombathely;Szombathely
+HU011C;Szolnok;Szolnok;Szolnok
+HU011F;Szolnok;Szolnok;Szolnok
+HU012C;Tatabánya;Tatabánya;Tatabánya
+HU012F;Tatabánya;Tatabánya;Tatabánya
+HU013C;Veszprém;Veszprém;Veszprém
+HU013F;Veszprém;Veszprém;Veszprém
+HU014C;Békéscsaba;Békéscsaba;Békéscsaba
+HU014F;Békéscsaba;Békéscsaba;Békéscsaba
+HU015C;Kaposvár;Kaposvár;Kaposvár
+HU015F;Kaposvár;Kaposvár;Kaposvár
+HU016C;Eger;Eger;Eger
+HU016F;Eger;Eger;Eger
+HU017C;Dunaújváros;Dunaújváros;Dunaújváros
+HU017F;Dunaújváros;Dunaújváros;Dunaújváros
+HU018C;Zalaegerszeg;Zalaegerszeg;Zalaegerszeg
+HU018F;Zalaegerszeg;Zalaegerszeg;Zalaegerszeg
+HU019C;Sopron;Sopron;Sopron
+HU019F;Sopron;Sopron;Sopron
+MT;Malta;Malte;Malta
+MT001C;Greater Valletta;Greater Valletta;Greater Valletta
+MT001F;Malta;Malta;Malta
+NL;Netherlands;Pays-Bas;Niederlande
+NL001C;Amsterdam (greater city);Amsterdam (greater city);Amsterdam (greater city)
+NL001F;Amsterdam;Amsterdam;Amsterdam
+NL002C;Alkmaar (greater city);Alkmaar (greater city);Alkmaar (greater city)
+NL002F;Alkmaar;Alkmaar;Alkmaar
+NL003C;Almelo;Almelo;Almelo
+NL003F;Almelo;Almelo;Almelo
+NL004C;Almere;Almere;Almere
+NL005C;Alphen aan den Rijn;Alphen aan den Rijn;Alphen aan den Rijn
+NL005F;Alphen aan den Rijn;Alphen aan den Rijn;Alphen aan den Rijn
+NL006C;Amersfoort;Amersfoort;Amersfoort
+NL006F;Amersfoort;Amersfoort;Amersfoort
+NL007C;Apeldoorn;Apeldoorn;Apeldoorn
+NL007F;Apeldoorn;Apeldoorn;Apeldoorn
+NL008C;Arnhem;Arnhem;Arnhem
+NL008F;Arnhem;Arnhem;Arnhem
+NL009C;Assen;Assen;Assen
+NL009F;Assen;Assen;Assen
+NL010C;Bergen op Zoom;Bergen op Zoom;Bergen op Zoom
+NL010F;Bergen op Zoom;Bergen op Zoom;Bergen op Zoom
+NL011C;Breda;Breda;Breda
+NL011F;Breda;Breda;Breda
+NL012C;Deventer;Deventer;Deventer
+NL012F;Deventer;Deventer;Deventer
+NL013C;Ede;Ede;Ede
+NL013F;Ede;Ede;Ede
+NL014C;Eindhoven (greater city);Eindhoven (greater city);Eindhoven (greater city)
+NL014F;Eindhoven;Eindhoven;Eindhoven
+NL015C;Enschede;Enschede;Enschede
+NL015F;Enschede;Enschede;Enschede
+NL016C;Gouda;Gouda;Gouda
+NL016F;Gouda;Gouda;Gouda
+NL017C;'s-Gravenhage (greater city);'s-Gravenhage (greater city);'s-Gravenhage (greater city)
+NL017F;'s-Gravenhage;'s-Gravenhage;'s-Gravenhage
+NL018C;Groningen;Groningen;Groningen
+NL018F;Groningen;Groningen;Groningen
+NL019C;Haarlem (greater city);Haarlem (greater city);Haarlem (greater city)
+NL020C;Haarlemmermeer;Haarlemmermeer;Haarlemmermeer
+NL021C;Heemskerk (greater city);Heemskerk (greater city);Heemskerk (greater city)
+NL022C;Heerlen (greater city);Heerlen (greater city);Heerlen (greater city)
+NL022F;Heerlen;Heerlen;Heerlen
+NL023C;Helmond;Helmond;Helmond
+NL024C;Hengelo;Hengelo;Hengelo
+NL025C;'s-Hertogenbosch;'s-Hertogenbosch;'s-Hertogenbosch
+NL025F;'s-Hertogenbosch;'s-Hertogenbosch;'s-Hertogenbosch
+NL026C;Hilversum;Hilversum;Hilversum
+NL027C;Hoorn;Hoorn;Hoorn
+NL028C;Leeuwarden;Leeuwarden;Leeuwarden
+NL028F;Leeuwarden;Leeuwarden;Leeuwarden
+NL029C;Leiden (greater city);Leiden (greater city);Leiden (greater city)
+NL029F;Leiden;Leiden;Leiden
+NL030C;Lelystad;Lelystad;Lelystad
+NL030F;Lelystad;Lelystad;Lelystad
+NL031C;Maastricht;Maastricht;Maastricht
+NL031F;Maastricht;Maastricht;Maastricht
+NL032C;Middelburg       ;Middelburg       ;Middelburg       
+NL032F;Middelburg;Middelburg;Middelburg
+NL033C;Nijmegen;Nijmegen;Nijmegen
+NL033F;Nijmegen;Nijmegen;Nijmegen
+NL034C;Nissewaard (greater city);Nissewaard (greater city);Nissewaard (greater city)
+NL035C;Oss;Oss;Oss
+NL035F;Oss;Oss;Oss
+NL036C;Purmerend;Purmerend;Purmerend
+NL037C;Rotterdam (greater city);Rotterdam (greater city);Rotterdam (greater city)
+NL037F;Rotterdam;Rotterdam;Rotterdam
+NL038C;Roosendaal;Roosendaal;Roosendaal
+NL038F;Roosendaal;Roosendaal;Roosendaal
+NL039C;Sittard-Geleen (greater city);Sittard-Geleen (greater city);Sittard-Geleen (greater city)
+NL039F;Sittard-Geleen;Sittard-Geleen;Sittard-Geleen
+NL040C;Soest (greater city);Soest (greater city);Soest (greater city)
+NL040F;Soest;Soest;Soest
+NL041C;Tilburg (greater city);Tilburg (greater city);Tilburg (greater city)
+NL041F;Tilburg;Tilburg;Tilburg
+NL042C;Utrecht (greater city);Utrecht (greater city);Utrecht (greater city)
+NL042F;Utrecht;Utrecht;Utrecht
+NL043C;Veenendaal;Veenendaal;Veenendaal
+NL043F;Veenendaal;Veenendaal;Veenendaal
+NL044C;Venlo;Venlo;Venlo
+NL044F;Venlo;Venlo;Venlo
+NL045C;Zaanstad (greater city);Zaanstad (greater city);Zaanstad (greater city)
+NL046C;Zoetermeer;Zoetermeer;Zoetermeer
+NL047C;Zwolle;Zwolle;Zwolle
+NL047F;Zwolle;Zwolle;Zwolle
+NL048C;Lansingerland (greater city);Lansingerland (greater city);Lansingerland (greater city)
+AT;Austria;Autriche;Österreich
+AT001C;Wien (greater city);Wien (greater city);Wien (greater city)
+AT001F;Wien;Wien;Wien
+AT002C;Graz;Graz;Graz
+AT002F;Graz;Graz;Graz
+AT003C;Linz (greater city);Linz (greater city);Linz (greater city)
+AT003F;Linz;Linz;Linz
+AT004C;Salzburg;Salzburg;Salzburg
+AT004F;Salzburg;Salzburg;Salzburg
+AT005C;Innsbruck;Innsbruck;Innsbruck
+AT005F;Innsbruck;Innsbruck;Innsbruck
+AT006C;Klagenfurt;Klagenfurt;Klagenfurt
+AT006F;Klagenfurt;Klagenfurt;Klagenfurt
+AT007C;Bregenz (greater city);Bregenz (greater city);Bregenz (greater city)
+AT008C;Wels;Wels;Wels
+PL;Poland;Pologne;Polen
+PL001C;Warszawa;Warszawa;Warszawa
+PL001F;Warszawa;Warszawa;Warszawa
+PL002C;Łódź;Łódź;Łódź
+PL002F;Lódz;Lódz;Lódz
+PL003C;Kraków;Kraków;Kraków
+PL003F;Kraków;Kraków;Kraków
+PL004C;Wrocław;Wrocław;Wrocław
+PL004F;Wroclaw;Wroclaw;Wroclaw
+PL005C;Poznań;Poznań;Poznań
+PL005F;Poznan;Poznan;Poznan
+PL006C;Gdańsk;Gdańsk;Gdańsk
+PL006F;Gdansk;Gdansk;Gdansk
+PL007C;Szczecin;Szczecin;Szczecin
+PL007F;Szczecin;Szczecin;Szczecin
+PL008C;Bydgoszcz;Bydgoszcz;Bydgoszcz
+PL008F;Bydgoszcz;Bydgoszcz;Bydgoszcz
+PL009C;Lublin;Lublin;Lublin
+PL009F;Lublin;Lublin;Lublin
+PL010C;Katowice;Katowice;Katowice
+PL010F;Katowice;Katowice;Katowice
+PL011C;Białystok;Białystok;Białystok
+PL011F;Bialystok;Bialystok;Bialystok
+PL012C;Kielce;Kielce;Kielce
+PL012F;Kielce;Kielce;Kielce
+PL013C;Toruń;Toruń;Toruń
+PL013F;Torun;Torun;Torun
+PL014C;Olsztyn;Olsztyn;Olsztyn
+PL014F;Olsztyn;Olsztyn;Olsztyn
+PL015C;Rzeszów;Rzeszów;Rzeszów
+PL015F;Rzeszów;Rzeszów;Rzeszów
+PL016C;Opole;Opole;Opole
+PL016F;Opole;Opole;Opole
+PL017C;Gorzów Wielkopolski;Gorzów Wielkopolski;Gorzów Wielkopolski
+PL017F;Gorzów Wielkopolski;Gorzów Wielkopolski;Gorzów Wielkopolski
+PL018C;Zielona Góra;Zielona Góra;Zielona Góra
+PL018F;Zielona Góra;Zielona Góra;Zielona Góra
+PL019C;Jelenia Góra;Jelenia Góra;Jelenia Góra
+PL019F;Jelenia Góra;Jelenia Góra;Jelenia Góra
+PL020C;Nowy Sącz;Nowy Sącz;Nowy Sącz
+PL020F;Nowy Sacz;Nowy Sacz;Nowy Sacz
+PL021C;Suwałki;Suwałki;Suwałki
+PL021F;Suwalki;Suwalki;Suwalki
+PL022C;Konin;Konin;Konin
+PL022F;Konin;Konin;Konin
+PL023C;Zory;Zory;Zory
+PL024C;Częstochowa;Częstochowa;Częstochowa
+PL024F;Czestochowa;Czestochowa;Czestochowa
+PL025C;Radom;Radom;Radom
+PL025F;Radom;Radom;Radom
+PL026C;Płock;Płock;Płock
+PL026F;Plock;Plock;Plock
+PL027C;Kalisz;Kalisz;Kalisz
+PL027F;Kalisz;Kalisz;Kalisz
+PL028C;Koszalin;Koszalin;Koszalin
+PL028F;Koszalin;Koszalin;Koszalin
+PL029C;Słupsk;Słupsk;Słupsk
+PL029F;Slupsk;Slupsk;Slupsk
+PL030C;Jastrzębie-Zdrój;Jastrzębie-Zdrój;Jastrzębie-Zdrój
+PL030F;Jastrzebie-Zdrój;Jastrzebie-Zdrój;Jastrzebie-Zdrój
+PL031C;Siedlce;Siedlce;Siedlce
+PL031F;Siedlce;Siedlce;Siedlce
+PL032C;Piotrków Trybunalski;Piotrków Trybunalski;Piotrków Trybunalski
+PL032F;Piotrków Trybunalski;Piotrków Trybunalski;Piotrków Trybunalski
+PL033C;Lubin;Lubin;Lubin
+PL033F;Lubin;Lubin;Lubin
+PL034C;Piła;Piła;Piła
+PL034F;Pila;Pila;Pila
+PL035C;Inowroc?aw;Inowroc?aw;Inowroc?aw
+PL035F;Inowroclaw;Inowroclaw;Inowroclaw
+PL036C;Ostrowiec Swietokrzyski;Ostrowiec Swietokrzyski;Ostrowiec Swietokrzyski
+PL036F;Ostrowiec Swietokrzyski;Ostrowiec Swietokrzyski;Ostrowiec Swietokrzyski
+PL037C;Gniezno;Gniezno;Gniezno
+PL037F;Gniezno;Gniezno;Gniezno
+PL038C;Stargard;Stargard;Stargard
+PL038F;Stargard;Stargard;Stargard
+PL039C;Ostrów Wielkopolski;Ostrów Wielkopolski;Ostrów Wielkopolski
+PL039F;Ostrów Wielkopolski;Ostrów Wielkopolski;Ostrów Wielkopolski
+PL040C;Przemysl;Przemysl;Przemysl
+PL040F;Przemysl;Przemysl;Przemysl
+PL041C;Zamość;Zamość;Zamość
+PL041F;Zamosc;Zamosc;Zamosc
+PL042C;Chełm;Chełm;Chełm
+PL042F;Chelm;Chelm;Chelm
+PL043C;Pabianice;Pabianice;Pabianice
+PL043F;Pabianice;Pabianice;Pabianice
+PL044C;Głogów;Głogów;Głogów
+PL044F;Glogów;Glogów;Glogów
+PL045C;Stalowa Wola;Stalowa Wola;Stalowa Wola
+PL045F;Stalowa Wola;Stalowa Wola;Stalowa Wola
+PL046C;Tomaszów Mazowiecki;Tomaszów Mazowiecki;Tomaszów Mazowiecki
+PL046F;Tomaszów Mazowiecki;Tomaszów Mazowiecki;Tomaszów Mazowiecki
+PL047C;Łomża;Łomża;Łomża
+PL047F;Lomza;Lomza;Lomza
+PL048C;Leszno;Leszno;Leszno
+PL048F;Leszno;Leszno;Leszno
+PL049C;Swidnica;Swidnica;Swidnica
+PL049F;Swidnica;Swidnica;Swidnica
+PL050C;Zgierz;Zgierz;Zgierz
+PL051C;Tczew;Tczew;Tczew
+PL051F;Tczew;Tczew;Tczew
+PL052C;Ełk;Ełk;Ełk
+PL052F;Elk;Elk;Elk
+PL053C;Gdynia;Gdynia;Gdynia
+PL054C;Sosnowiec;Sosnowiec;Sosnowiec
+PL055C;Gliwice;Gliwice;Gliwice
+PL056C;Zabrze;Zabrze;Zabrze
+PL057C;Bytom;Bytom;Bytom
+PL058C;Bielsko-Biała;Bielsko-Biała;Bielsko-Biała
+PL058F;Bielsko-Biala;Bielsko-Biala;Bielsko-Biala
+PL059C;Ruda Śląska;Ruda Śląska;Ruda Śląska
+PL060C;Rybnik;Rybnik;Rybnik
+PL060F;Rybnik;Rybnik;Rybnik
+PL061C;Tychy;Tychy;Tychy
+PL062C;Wałbrzych;Wałbrzych;Wałbrzych
+PL062F;Walbrzych;Walbrzych;Walbrzych
+PL063C;Elbląg;Elbląg;Elbląg
+PL063F;Elblag;Elblag;Elblag
+PL064C;Włocławek;Włocławek;Włocławek
+PL064F;Wloclawek;Wloclawek;Wloclawek
+PL065C;Tarnów;Tarnów;Tarnów
+PL065F;Tarnów;Tarnów;Tarnów
+PL066C;Chorzów;Chorzów;Chorzów
+PL067C;Legnica;Legnica;Legnica
+PL067F;Legnica;Legnica;Legnica
+PL068C;Grudziądz;Grudziądz;Grudziądz
+PL068F;Grudziadz;Grudziadz;Grudziadz
+PL069C;Będzin;Będzin;Będzin
+PL070C;Dąbrowa Górnicza;Dąbrowa Górnicza;Dąbrowa Górnicza
+PL071C;Legionowo;Legionowo;Legionowo
+PL072C;Mysłowice;Mysłowice;Mysłowice
+PL073C;Pruszków;Pruszków;Pruszków
+PL074C;Siemianowice Śląskie;Siemianowice Śląskie;Siemianowice Śląskie
+PL075C;Świętochłowice;Świętochłowice;Świętochłowice
+PT;Portugal;Portugal;Portugal
+PT001C;Lisboa (greater city);Lisboa (greater city);Lisboa (greater city)
+PT001C1;Lisboa;Lisboa;Lisboa
+PT001F;Lisboa;Lisboa;Lisboa
+PT002C;Porto (greater city);Porto (greater city);Porto (greater city)
+PT002F;Porto;Porto;Porto
+PT003C;Braga (greater city);Braga (greater city);Braga (greater city)
+PT003F;Braga;Braga;Braga
+PT004C;Funchal (greater city);Funchal (greater city);Funchal (greater city)
+PT004F;Funchal;Funchal;Funchal
+PT005C;Coimbra (greater city);Coimbra (greater city);Coimbra (greater city)
+PT005F;Coimbra;Coimbra;Coimbra
+PT006C;Setúbal (greater city);Setúbal (greater city);Setúbal (greater city)
+PT007C;Ponta Delgada (greater city);Ponta Delgada (greater city);Ponta Delgada (greater city)
+PT007F;Ponta Delgada;Ponta Delgada;Ponta Delgada
+PT008C;Aveiro (greater city);Aveiro (greater city);Aveiro (greater city)
+PT008F;Aveiro;Aveiro;Aveiro
+PT009C;Faro (greater city);Faro (greater city);Faro (greater city)
+PT009F;Faro;Faro;Faro
+PT010C;Viseu (greater city);Viseu (greater city);Viseu (greater city)
+PT010F;Viseu;Viseu;Viseu
+PT011C;Viana do Castelo (greater city);Viana do Castelo (greater city);Viana do Castelo (greater city)
+PT011F;Viana do Castelo;Viana do Castelo;Viana do Castelo
+PT012C;Paredes (greater city);Paredes (greater city);Paredes (greater city)
+PT013C;Póvoa de Varzim (greater city);Póvoa de Varzim (greater city);Póvoa de Varzim (greater city)
+PT013F;Póvoa de Varzim;Póvoa de Varzim;Póvoa de Varzim
+PT014C;Sintra (greater city);Sintra (greater city);Sintra (greater city)
+PT015C;Guimarães (greater city);Guimarães (greater city);Guimarães (greater city)
+PT015F;Guimarães;Guimarães;Guimarães
+PT016C;Vila Franca de Xira (greater city);Vila Franca de Xira (greater city);Vila Franca de Xira (greater city)
+RO;Romania;Roumanie;Rumänien
+RO001C;Bucuresti;Bucuresti;Bucuresti
+RO001F;Bucuresti;Bucuresti;Bucuresti
+RO002C;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca
+RO002F;Cluj-Napoca;Cluj-Napoca;Cluj-Napoca
+RO003C;Timișoara (greater city);Timișoara (greater city);Timișoara (greater city)
+RO003F;Timisoara;Timisoara;Timisoara
+RO004C;Craiova;Craiova;Craiova
+RO004F;Craiova;Craiova;Craiova
+RO005C;Brăila;Brăila;Brăila
+RO005F;Braila;Braila;Braila
+RO006C;Oradea;Oradea;Oradea
+RO006F;Oradea;Oradea;Oradea
+RO007C;Bacău;Bacău;Bacău
+RO007F;Bacau;Bacau;Bacau
+RO008C;Arad;Arad;Arad
+RO008F;Arad;Arad;Arad
+RO009C;Sibiu;Sibiu;Sibiu
+RO009F;Sibiu;Sibiu;Sibiu
+RO010C;Târgu Mureș;Târgu Mureș;Târgu Mureș
+RO010F;Târgu Mures;Târgu Mures;Târgu Mures
+RO011C;Piatra-Neamț;Piatra-Neamț;Piatra-Neamț
+RO011F;Piatra Neamt;Piatra Neamt;Piatra Neamt
+RO012C;Călărași;Călărași;Călărași
+RO012F;Calarasi;Calarasi;Calarasi
+RO013C;Giurgiu;Giurgiu;Giurgiu
+RO013F;Giurgiu;Giurgiu;Giurgiu
+RO014C;Alba Iulia;Alba Iulia;Alba Iulia
+RO014F;Alba Iulia;Alba Iulia;Alba Iulia
+RO015C;Focșani;Focșani;Focșani
+RO015F;Focsani;Focsani;Focsani
+RO016C;Târgu Jiu;Târgu Jiu;Târgu Jiu
+RO016F;Târgu Jiu;Târgu Jiu;Târgu Jiu
+RO017C;Tulcea;Tulcea;Tulcea
+RO017F;Tulcea;Tulcea;Tulcea
+RO018C;Târgoviște;Târgoviște;Târgoviște
+RO018F;Târgoviste;Târgoviste;Târgoviste
+RO019C;Slatina;Slatina;Slatina
+RO019F;Slatina;Slatina;Slatina
+RO020C;Bârlad;Bârlad;Bârlad
+RO020F;Bârlad;Bârlad;Bârlad
+RO021C;Roman;Roman;Roman
+RO021F;Roman;Roman;Roman
+RO022C;Bistrița;Bistrița;Bistrița
+RO022F;Bistrita;Bistrita;Bistrita
+RO023C;Constanța;Constanța;Constanța
+RO023F;Constanta;Constanta;Constanta
+RO024C;Iași (greater city);Iași (greater city);Iași (greater city)
+RO024F;Iasi;Iasi;Iasi
+RO025C;Galați;Galați;Galați
+RO025F;Galati;Galati;Galati
+RO026C;Brașov;Brașov;Brașov
+RO026F;Brasov;Brasov;Brasov
+RO027C;Ploiești;Ploiești;Ploiești
+RO027F;Ploiesti;Ploiesti;Ploiesti
+RO028C;Pitești;Pitești;Pitești
+RO028F;Pitesti;Pitesti;Pitesti
+RO029C;Baia Mare;Baia Mare;Baia Mare
+RO029F;Baia Mare;Baia Mare;Baia Mare
+RO030C;Buzău;Buzău;Buzău
+RO030F;Buzau;Buzau;Buzau
+RO031C;Satu Mare;Satu Mare;Satu Mare
+RO031F;Satu Mare;Satu Mare;Satu Mare
+RO032C;Botoșani;Botoșani;Botoșani
+RO032F;Botosani;Botosani;Botosani
+RO033C;Râmnicu Vâlcea;Râmnicu Vâlcea;Râmnicu Vâlcea
+RO033F;Râmnicu Vâlcea;Râmnicu Vâlcea;Râmnicu Vâlcea
+RO034C;Suceava;Suceava;Suceava
+RO034F;Suceava;Suceava;Suceava
+RO035C;Drobeta-Turnu Severin;Drobeta-Turnu Severin;Drobeta-Turnu Severin
+RO035F;Drobeta-Turnu Severin;Drobeta-Turnu Severin;Drobeta-Turnu Severin
+RO040C;Vaslui;Vaslui;Vaslui
+RO049C;Deva;Deva;Deva
+SI;Slovenia;Slovénie;Slowenien
+SI001C;Ljubljana;Ljubljana;Ljubljana
+SI001F;Osrednjeslovenska;Osrednjeslovenska;Osrednjeslovenska
+SI002C;Maribor;Maribor;Maribor
+SI002F;Podravska;Podravska;Podravska
+SK;Slovakia;Slovaquie;Slovakei
+SK001C;Bratislava (greater city);Bratislava (greater city);Bratislava (greater city)
+SK001F;Bratislava;Bratislava;Bratislava
+SK002C;Košice (greater city);Košice (greater city);Košice (greater city)
+SK002F;Košice;Košice;Košice
+SK003C;Banská Bystrica;Banská Bystrica;Banská Bystrica
+SK003F;Banská Bystrica;Banská Bystrica;Banská Bystrica
+SK004C;Nitra;Nitra;Nitra
+SK004F;Nitra;Nitra;Nitra
+SK005C;Prešov;Prešov;Prešov
+SK005F;Prešov;Prešov;Prešov
+SK006C;Žilina;Žilina;Žilina
+SK006F;Žilina;Žilina;Žilina
+SK007C;Trnava;Trnava;Trnava
+SK007F;Trnava;Trnava;Trnava
+SK008C;Trenčín;Trenčín;Trenčín
+SK008F;Trencín;Trencín;Trencín
+FI;Finland;Finlande;Finnland
+FI001C;Helsinki/Helsingfors;Helsinki/Helsingfors;Helsinki/Helsingfors
+FI001C2;Helsinki / Helsingfors;Helsinki / Helsingfors;Helsinki / Helsingfors
+FI001F;Helsinki/Helsingfors;Helsinki/Helsingfors;Helsinki/Helsingfors
+FI002C;Tampere/Tammerfors;Tampere/Tammerfors;Tampere/Tammerfors
+FI002F;Tampere/Tammerfors;Tampere/Tammerfors;Tampere/Tammerfors
+FI003C;Turku/Åbo;Turku/Åbo;Turku/Åbo
+FI003F;Turku/Åbo;Turku/Åbo;Turku/Åbo
+FI004C;Oulu/Uleåborg;Oulu/Uleåborg;Oulu/Uleåborg
+FI004F;Oulu/Uleåborg;Oulu/Uleåborg;Oulu/Uleåborg
+FI005C;Espoo/Esbo;Espoo/Esbo;Espoo/Esbo
+FI006C;Vantaa/Vanda;Vantaa/Vanda;Vantaa/Vanda
+FI007C;Lahti/Lahtis;Lahti/Lahtis;Lahti/Lahtis
+FI007F;Lahti/Lahtis;Lahti/Lahtis;Lahti/Lahtis
+FI008C;Kuopio;Kuopio;Kuopio
+FI008F;Kuopio;Kuopio;Kuopio
+FI009C;Jyväskylä;Jyväskylä;Jyväskylä
+FI009F;Jyväskylä;Jyväskylä;Jyväskylä
+SE;Sweden;Suède;Schweden
+SE001C;Stockholm (greater city);Stockholm (greater city);Stockholm (greater city)
+SE001C1;Stockholm;Stockholm;Stockholm
+SE001F;Stockholm;Stockholm;Stockholm
+SE002C;Göteborg (greater city);Göteborg (greater city);Göteborg (greater city)
+SE002F;Göteborg;Göteborg;Göteborg
+SE003C;Malmö;Malmö;Malmö
+SE003F;Malmö;Malmö;Malmö
+SE004C;Jönköping;Jönköping;Jönköping
+SE004F;Jönköping;Jönköping;Jönköping
+SE005C;Umeå;Umeå;Umeå
+SE005F;Umeå;Umeå;Umeå
+SE006C;Uppsala;Uppsala;Uppsala
+SE006F;Uppsala;Uppsala;Uppsala
+SE007C;Linköping;Linköping;Linköping
+SE007F;Linköping;Linköping;Linköping
+SE008C;Örebro;Örebro;Örebro
+SE008F;Örebro;Örebro;Örebro
+SE009C;Södertälje;Södertälje;Södertälje
+SE009F;Södertälje;Södertälje;Södertälje
+SE010C;Västerås;Västerås;Västerås
+SE010F;Västerås;Västerås;Västerås
+SE011C;Norrköping;Norrköping;Norrköping
+SE011F;Norrköping;Norrköping;Norrköping
+SE012C;Helsingborg;Helsingborg;Helsingborg
+SE012F;Helsingborg;Helsingborg;Helsingborg
+SE013C;Lund;Lund;Lund
+SE014C;Borås;Borås;Borås
+SE014F;Borås;Borås;Borås
+SE015C;Växjö;Växjö;Växjö
+IS;Iceland;Islande;Island
+IS001C;Reykjavík;Reykjavík;Reykjavík
+IS001F;Reykjavík;Reykjavík;Reykjavík
+LI001C1;Vaduz;Vaduz;Vaduz
+LI002C1;Schaan;Schaan;Schaan
+NO;Norway;Norvège;Norwegen
+NO001C;Oslo (greater city);Oslo (greater city);Oslo (greater city)
+NO001F;Oslo;Oslo;Oslo
+NO002C;Bergen;Bergen;Bergen
+NO002F;Bergen;Bergen;Bergen
+NO003C;Trondheim;Trondheim;Trondheim
+NO003F;Trondheim;Trondheim;Trondheim
+NO004C;Stavanger (greater city);Stavanger (greater city);Stavanger (greater city)
+NO004F;Stavanger;Stavanger;Stavanger
+CH;Switzerland;Suisse;Schweiz
+CH001C;Bern (greater city);Bern (greater city);Bern (greater city)
+CH001C1;Zürich;Zürich;Zürich
+CH001F;Bern;Bern;Bern
+CH002C;Zurich (greater city);Zurich (greater city);Zurich (greater city)
+CH002C1;Genève;Genève;Genève
+CH002F;Zürich;Zürich;Zürich
+CH003C;Geneva (greater city);Geneva (greater city);Geneva (greater city)
+CH003F;Genève;Genève;Genève
+CH003T;Geneva crossborder FUA;Genève FUA transfrontalière;Genf grenzüberschreitendes FUA
+CH004C;Basel (greater city);Basel (greater city);Basel (greater city)
+CH004F;Basel;Basel;Basel
+CH004T;Basel crossborder FUA;Bâle FUA transfrontalière;Basel grenzüberschreitendes FUA
+CH005C;Lausanne (greater city);Lausanne (greater city);Lausanne (greater city)
+CH005F;Lausanne;Lausanne;Lausanne
+CH006C;Lucerne (greater city);Lucerne (greater city);Lucerne (greater city)
+CH006F;Luzern;Luzern;Luzern
+CH007C;Winterthur;Winterthur;Winterthur
+CH008C;Lugano (greater city);Lugano (greater city);Lugano (greater city)
+CH008F;Lugano;Lugano;Lugano
+CH009C;St. Gallen (greater city);St. Gallen (greater city);St. Gallen (greater city)
+CH009F;St. Gallen;St. Gallen;St. Gallen
+CH010C;Biel/Bienne (greater city);Biel/Bienne (greater city);Biel/Bienne (greater city)
+CH010F;Biel/Bienne;Biel/Bienne;Biel/Bienne
+CH011C;Thun (greater city);Thun (greater city);Thun (greater city)
+CH012C;Zug (greater city);Zug (greater city);Zug (greater city)
+CH012F;Zug;Zug;Zug
+CH013C;Fribourg (greater city);Fribourg (greater city);Fribourg (greater city)
+CH014C;Montreux – Vevey (greater city);Montreux – Vevey (greater city);Montreux – Vevey (greater city)
+CH015C;Aarau (greater city);Aarau (greater city);Aarau (greater city)
+UK;United Kingdom;United Kingdom;United Kingdom
+UK001C;London;London;London
+UK001F;London;London;London
+UK002C;Birmingham;Birmingham;Birmingham
+UK002F;West Midlands urban area;West Midlands urban area;West Midlands urban area
+UK003C;Leeds;Leeds;Leeds
+UK003F;Leeds;Leeds;Leeds
+UK004C;Glasgow;Glasgow;Glasgow
+UK004C1;Glasgow City;Glasgow City;Glasgow City
+UK004F;Glasgow;Glasgow;Glasgow
+UK005C;Bradford;Bradford;Bradford
+UK006C;Liverpool;Liverpool;Liverpool
+UK006F;Liverpool;Liverpool;Liverpool
+UK007C;Edinburgh;Edinburgh;Edinburgh
+UK007F;Edinburgh;Edinburgh;Edinburgh
+UK008C;Manchester;Manchester;Manchester
+UK008C1;Manchester;Manchester;Manchester
+UK008F;Manchester;Manchester;Manchester
+UK009C;Cardiff;Cardiff;Cardiff
+UK009F;Cardiff;Cardiff;Cardiff
+UK010C;Sheffield;Sheffield;Sheffield
+UK010F;Sheffield;Sheffield;Sheffield
+UK011C;Bristol;Bristol;Bristol
+UK011F;Bristol;Bristol;Bristol
+UK012C;Belfast;Belfast;Belfast
+UK012C2;Belfast;Belfast;Belfast
+UK012F;Belfast;Belfast;Belfast
+UK013C;Newcastle upon Tyne;Newcastle upon Tyne;Newcastle upon Tyne
+UK013C1;Newcastle upon Tyne;Newcastle upon Tyne;Newcastle upon Tyne
+UK013F;Newcastle upon Tyne;Newcastle upon Tyne;Newcastle upon Tyne
+UK014C;Leicester;Leicester;Leicester
+UK014F;Leicester;Leicester;Leicester
+UK015C;Aberdeen;Aberdeen;Aberdeen
+UK015F;Aberdeen;Aberdeen;Aberdeen
+UK016C;Cambridge;Cambridge;Cambridge
+UK016F;Cambridge;Cambridge;Cambridge
+UK017C;Exeter;Exeter;Exeter
+UK017F;Exeter;Exeter;Exeter
+UK018C;Lincoln;Lincoln;Lincoln
+UK018F;Lincoln;Lincoln;Lincoln
+UK019C;Gravesham;Gravesham;Gravesham
+UK020C;Stevenage;Stevenage;Stevenage
+UK020F;Stevenage;Stevenage;Stevenage
+UK021C;Wrexham;Wrexham;Wrexham
+UK021F;Wrexham;Wrexham;Wrexham
+UK022C;Portsmouth;Portsmouth;Portsmouth
+UK022F;Portsmouth;Portsmouth;Portsmouth
+UK023C;Worcester;Worcester;Worcester
+UK023F;Worcester;Worcester;Worcester
+UK024C;Coventry;Coventry;Coventry
+UK024F;Coventry;Coventry;Coventry
+UK025C;Kingston-upon-Hull;Kingston-upon-Hull;Kingston-upon-Hull
+UK025F;Kingston upon Hull;Kingston upon Hull;Kingston upon Hull
+UK026C;Stoke-on-Trent;Stoke-on-Trent;Stoke-on-Trent
+UK026F;Stoke-on-Trent;Stoke-on-Trent;Stoke-on-Trent
+UK027C;Wolverhampton;Wolverhampton;Wolverhampton
+UK028C;Nottingham;Nottingham;Nottingham
+UK028F;Nottingham;Nottingham;Nottingham
+UK029C;Wirral;Wirral;Wirral
+UK030C;Bath and North East Somerset;Bath and North East Somerset;Bath and North East Somerset
+UK030F;Bath and North East Somerset;Bath and North East Somerset;Bath and North East Somerset
+UK031C;Thurrock;Thurrock;Thurrock
+UK032C;Guildford;Guildford;Guildford
+UK032F;Guildford;Guildford;Guildford
+UK033C;Thanet;Thanet;Thanet
+UK034C;Nuneaton and Bedworth;Nuneaton and Bedworth;Nuneaton and Bedworth
+UK035C;Tunbridge Wells;Tunbridge Wells;Tunbridge Wells
+UK036C;Ashford;Ashford;Ashford
+UK036F;Ashford;Ashford;Ashford
+UK037C;East Staffordshire;East Staffordshire;East Staffordshire
+UK037F;East Staffordshire;East Staffordshire;East Staffordshire
+UK038C;Darlington;Darlington;Darlington
+UK038F;Darlington;Darlington;Darlington
+UK039C;Worthing;Worthing;Worthing
+UK039F;Worthing;Worthing;Worthing
+UK040C;Mansfield;Mansfield;Mansfield
+UK040F;Mansfield;Mansfield;Mansfield
+UK041C;Chesterfield;Chesterfield;Chesterfield
+UK041F;Chesterfield;Chesterfield;Chesterfield
+UK042C;Burnley;Burnley;Burnley
+UK042F;Burnley;Burnley;Burnley
+UK043C;Great Yarmouth;Great Yarmouth;Great Yarmouth
+UK043F;Great Yarmouth;Great Yarmouth;Great Yarmouth
+UK044C;Woking;Woking;Woking
+UK045C;Hartlepool;Hartlepool;Hartlepool
+UK046C;Cannock Chase;Cannock Chase;Cannock Chase
+UK047C;Eastbourne;Eastbourne;Eastbourne
+UK047F;Eastbourne;Eastbourne;Eastbourne
+UK048C;Hastings;Hastings;Hastings
+UK048F;Hastings;Hastings;Hastings
+UK049C;Hyndburn;Hyndburn;Hyndburn
+UK050C;Redditch;Redditch;Redditch
+UK050F;Redditch;Redditch;Redditch
+UK051C;Tamworth;Tamworth;Tamworth
+UK052C;Harlow;Harlow;Harlow
+UK053C;Halton;Halton;Halton
+UK053F;Halton;Halton;Halton
+UK054C;Kirklees;Kirklees;Kirklees
+UK055C;North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell);North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell);North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell)
+UK056C;Wakefield;Wakefield;Wakefield
+UK057C;Dudley;Dudley;Dudley
+UK058C;Wigan;Wigan;Wigan
+UK059C;Doncaster;Doncaster;Doncaster
+UK059F;Doncaster;Doncaster;Doncaster
+UK060C;Stockport;Stockport;Stockport
+UK061C;Sefton;Sefton;Sefton
+UK062C;Sandwell;Sandwell;Sandwell
+UK063C;Sunderland;Sunderland;Sunderland
+UK063F;Sunderland;Sunderland;Sunderland
+UK064C;Bolton;Bolton;Bolton
+UK065C;Walsall;Walsall;Walsall
+UK066C;Medway;Medway;Medway
+UK066F;Medway;Medway;Medway
+UK067C;Rotherham;Rotherham;Rotherham
+UK068C;Brighton and Hove;Brighton and Hove;Brighton and Hove
+UK068F;Brighton and Hove;Brighton and Hove;Brighton and Hove
+UK069C;Plymouth;Plymouth;Plymouth
+UK069F;Plymouth;Plymouth;Plymouth
+UK070C;Swansea;Swansea;Swansea
+UK070F;Swansea;Swansea;Swansea
+UK071C;Derby;Derby;Derby
+UK071F;Derby;Derby;Derby
+UK072C;Barnsley;Barnsley;Barnsley
+UK073C;Southampton;Southampton;Southampton
+UK073F;Southampton;Southampton;Southampton
+UK074C;Oldham;Oldham;Oldham
+UK075C;Salford;Salford;Salford
+UK076C;Tameside;Tameside;Tameside
+UK077C;Trafford;Trafford;Trafford
+UK078C;Milton Keynes;Milton Keynes;Milton Keynes
+UK078F;Milton Keynes;Milton Keynes;Milton Keynes
+UK079C;Rochdale;Rochdale;Rochdale
+UK080C;Solihull;Solihull;Solihull
+UK081C;Northampton;Northampton;Northampton
+UK081F;Northampton;Northampton;Northampton
+UK082C;North Tyneside;North Tyneside;North Tyneside
+UK083C;Gateshead;Gateshead;Gateshead
+UK084C;Warrington;Warrington;Warrington
+UK084F;Warrington;Warrington;Warrington
+UK085C;Luton;Luton;Luton
+UK085F;Luton;Luton;Luton
+UK086C;York;York;York
+UK086F;York;York;York
+UK087C;Bury;Bury;Bury
+UK088C;Swindon;Swindon;Swindon
+UK088F;Swindon;Swindon;Swindon
+UK089C;Stockton-on-Tees;Stockton-on-Tees;Stockton-on-Tees
+UK090C;St. Helens;St. Helens;St. Helens
+UK091C;Basildon;Basildon;Basildon
+UK092C;Bournemouth;Bournemouth;Bournemouth
+UK092F;Bournemouth;Bournemouth;Bournemouth
+UK093C;Southend-on-Sea;Southend-on-Sea;Southend-on-Sea
+UK094C;Telford and Wrekin;Telford and Wrekin;Telford and Wrekin
+UK094F;Telford and Wrekin;Telford and Wrekin;Telford and Wrekin
+UK095C;North East Lincolnshire;North East Lincolnshire;North East Lincolnshire
+UK095F;North East Lincolnshire;North East Lincolnshire;North East Lincolnshire
+UK096C;Chelmsford;Chelmsford;Chelmsford
+UK097C;Peterborough;Peterborough;Peterborough
+UK097F;Peterborough;Peterborough;Peterborough
+UK098C;Colchester;Colchester;Colchester
+UK098F;Colchester;Colchester;Colchester
+UK099C;South Tyneside;South Tyneside;South Tyneside
+UK100C;Basingstoke and Deane;Basingstoke and Deane;Basingstoke and Deane
+UK100F;Basingstoke and Deane;Basingstoke and Deane;Basingstoke and Deane
+UK101C;Bedford;Bedford;Bedford
+UK101F;Bedford;Bedford;Bedford
+UK102C;Dundee City;Dundee City;Dundee City
+UK102F;Dundee City;Dundee City;Dundee City
+UK103C;Falkirk;Falkirk;Falkirk
+UK103F;Falkirk;Falkirk;Falkirk
+UK104C;Reading;Reading;Reading
+UK104F;Reading;Reading;Reading
+UK105C;Blackpool;Blackpool;Blackpool
+UK105F;Blackpool;Blackpool;Blackpool
+UK106C;Maidstone;Maidstone;Maidstone
+UK106F;Maidstone;Maidstone;Maidstone
+UK107C;Dacorum;Dacorum;Dacorum
+UK107F;Dacorum;Dacorum;Dacorum
+UK108C;Blackburn with Darwen;Blackburn with Darwen;Blackburn with Darwen
+UK108F;Blackburn with Darwen;Blackburn with Darwen;Blackburn with Darwen
+UK109C;Newport;Newport;Newport
+UK109F;Newport;Newport;Newport
+UK110C;Middlesbrough;Middlesbrough;Middlesbrough
+UK110F;Middlesbrough;Middlesbrough;Middlesbrough
+UK111C;Oxford;Oxford;Oxford
+UK111F;Oxford;Oxford;Oxford
+UK112C;Torbay;Torbay;Torbay
+UK112F;Torbay;Torbay;Torbay
+UK113C;Preston;Preston;Preston
+UK113F;Preston;Preston;Preston
+UK114C;St Albans;St Albans;St Albans
+UK115C;Warwick;Warwick;Warwick
+UK116C;Newcastle-under-Lyme;Newcastle-under-Lyme;Newcastle-under-Lyme
+UK117C;Norwich;Norwich;Norwich
+UK117F;Norwich;Norwich;Norwich
+UK118C;Slough;Slough;Slough
+UK118F;Slough;Slough;Slough
+UK119C;Cheshire West and Chester;Cheshire West and Chester;Cheshire West and Chester
+UK119F;Cheshire West and Chester;Cheshire West and Chester;Cheshire West and Chester
+UK120C;Ipswich;Ipswich;Ipswich
+UK120F;Ipswich;Ipswich;Ipswich
+UK121C;Cheltenham;Cheltenham;Cheltenham
+UK121F;Cheltenham;Cheltenham;Cheltenham
+UK122C;Gloucester;Gloucester;Gloucester
+UK122F;Gloucester;Gloucester;Gloucester
+UK123C;Bracknell Forest;Bracknell Forest;Bracknell Forest
+UK123F;Bracknell Forest;Bracknell Forest;Bracknell Forest
+UK124C;Carlisle;Carlisle;Carlisle
+UK124F;Carlisle;Carlisle;Carlisle
+UK125C;Crawley;Crawley;Crawley
+UK125F;Crawley;Crawley;Crawley
+UK126C;Watford;Watford;Watford
+UK127C;Gosport;Gosport;Gosport
+UK128C;Eastleigh;Eastleigh;Eastleigh
+UK129C;Rushmoor;Rushmoor;Rushmoor
+UK129F;Rushmoor;Rushmoor;Rushmoor
+UK130C;Rugby;Rugby;Rugby
+UK131C;Corby;Corby;Corby
+UK131F;Corby;Corby;Corby
+UK132C;Kettering;Kettering;Kettering
+UK132F;Kettering;Kettering;Kettering
+UK133C;Inverclyde (Greenock);Inverclyde (Greenock);Inverclyde (Greenock)
+UK134C;Renfrewshire (Paisley);Renfrewshire (Paisley);Renfrewshire (Paisley)
+UK135C;Derry & Strabane Local Government District;Derry & Strabane Local Government District;Derry & Strabane Local Government District
+UK135F;Derry & Strabane Local Government District;Derry & Strabane Local Government District;Derry & Strabane Local Government District
+BA001C1;Sarajevo;Sarajevo;Sarajevo
+ME001C;Podgorika;Podgorika;Podgorika
+MK001C;Skopje;Skopje;Skopje
+AL001C;Tirana;Tirana;Tirana
+RS001C;Belgrade;Belgrade;Belgrade
+TR;Türkiye;Turquie;Türkei
+TR001C;Ankara;Ankara;Ankara
+TR001F;Ankara;Ankara;Ankara
+TR002C;Adana;Adana;Adana
+TR002F;Adana;Adana;Adana
+TR003C;Antalya;Antalya;Antalya
+TR003F;Antalya;Antalya;Antalya
+TR004C;Balikesir;Balikesir;Balikesir
+TR004F;Balikesir;Balikesir;Balikesir
+TR005C;Bursa;Bursa;Bursa
+TR005F;Bursa;Bursa;Bursa
+TR006C;Denizli;Denizli;Denizli
+TR006F;Denizli;Denizli;Denizli
+TR007C;Diyarbakir;Diyarbakir;Diyarbakir
+TR007F;Diyarbakir;Diyarbakir;Diyarbakir
+TR008C;Edirne;Edirne;Edirne
+TR008F;Edirne;Edirne;Edirne
+TR009C;Erzurum;Erzurum;Erzurum
+TR009F;Erzurum;Erzurum;Erzurum
+TR010C;Gaziantep;Gaziantep;Gaziantep
+TR010F;Gaziantep;Gaziantep;Gaziantep
+TR011C;Hatay;Hatay;Hatay
+TR011F;Hatay;Hatay;Hatay
+TR012C;Istanbul;Istanbul;Istanbul
+TR012F;Istanbul;Istanbul;Istanbul
+TR013C;Izmir;Izmir;Izmir
+TR013F;Izmir;Izmir;Izmir
+TR014C;Kars;Kars;Kars
+TR014F;Kars;Kars;Kars
+TR015C;Kastamonu;Kastamonu;Kastamonu
+TR015F;Kastamonu;Kastamonu;Kastamonu
+TR016C;Kayseri;Kayseri;Kayseri
+TR016F;Kayseri;Kayseri;Kayseri
+TR017C;Kocaeli;Kocaeli;Kocaeli
+TR017F;Kocaeli;Kocaeli;Kocaeli
+TR018C;Konya;Konya;Konya
+TR018F;Konya;Konya;Konya
+TR019C;Malatya;Malatya;Malatya
+TR019F;Malatya;Malatya;Malatya
+TR020C;Manisa;Manisa;Manisa
+TR020F;Manisa;Manisa;Manisa
+TR021C;Nevsehir;Nevsehir;Nevsehir
+TR021F;Nevsehir;Nevsehir;Nevsehir
+TR022C;Samsun;Samsun;Samsun
+TR022F;Samsun;Samsun;Samsun
+TR023C;Siirt;Siirt;Siirt
+TR023F;Siirt;Siirt;Siirt
+TR024C;Trabzon;Trabzon;Trabzon
+TR024F;Trabzon;Trabzon;Trabzon
+TR025C;Van;Van;Van
+TR025F;Van;Van;Van
+TR026C;Zonguldak;Zonguldak;Zonguldak
+TR026F;Zonguldak;Zonguldak;Zonguldak
+XK001C;Prishtinë/Priština;Prishtinë/Priština;Prishtinë/Priština
